@@ -1,0 +1,350 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Orchard47</title>
+<link href="styles/style4.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="overlib/overlib4.js"><!-- overLIB (c) Erik Bosrup --></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function show(obj) {
+	if (document.getElementById) {
+		document.getElementById(obj).style.visibility = "visible";
+	}
+}
+function hide(obj) {
+	if (document.getElementById) { 
+		document.getElementById(obj).style.visibility = "hidden";
+	}
+}
+
+//-->
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #FF00FF}
+-->
+</style>
+</head>
+<a href="http://orchard47.org/index.php"><div id="headline1">
+Orchard
+</div>
+</a>
+
+
+
+
+
+<body class="body">
+<div id="bar1"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="info"> 47 Orchard Street<br />
+NYC, NY 10002<br />
+(212) 219&ndash;1061<br />
+<a href="mailto:contact@orchard47.org">contact@orchard47.org</a>
+<br />
+<br />
+F train to East Broadway <br />
+or B, D to Grand<br />
+Gallery Hours: Thurs&ndash;Sun 1 to 6</div>
+
+
+<div id="bar2"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="names">
+
+
+
+
+
+
+
+
+<a href="http://orchard47.org/testartist.php?name=Rhea Anastas" >Rhea Anastas</a><br><a href="http://orchard47.org/testartist.php?name=Moyra Davey" >Moyra Davey</a><br><a href="http://orchard47.org/testartist.php?name=Andrea Fraser" >Andrea Fraser</a><br><a href="http://orchard47.org/testartist.php?name=Nicolas Guagnini" >Nicol&aacute;s Guagnini</a><br><a href="http://orchard47.org/testartist.php?name=Gareth James" >Gareth James</a><br><a href="http://orchard47.org/testartist.php?name=Christian Philipp Muller" >Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testartist.php?name=Jeff Preiss" >Jeff Preiss</a><br><a href="http://orchard47.org/testartist.php?name=R.H. Quaytman" >R.H. Quaytman</a><br><a href="http://orchard47.org/testartist.php?name=Karin Schneider" >Karin Schneider</a><br><a href="http://orchard47.org/testartist.php?name=Jason Simon" >Jason Simon</a><br><a href="http://orchard47.org/testartist.php?name=John Yancy, Jr." >John Yancy, Jr.</a><br>Anonymous</div>
+
+
+<div id="bar3"><img src="images/bar_long.gif" width="393" height="7" /></div>
+
+
+<div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div>
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+
+<div id="exhibitions">
+
+
+<b>Current Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=detourism" onMouseOver="return overlib('July 1&mdash;July 28, 2007')" onMouseOut="nd();">detourism</a><br></table>
+<br />
+
+<br />
+<b>Future Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+<table border='0'><a href="http://orchard47.org/testshow.php?name=Sadie Benning" onMouseOver="return overlib('Sept 9 &ndash; Oct 7, 2007')" onMouseOut="nd();">Sadie Benning</a><br><a href="http://orchard47.org/testshow.php?name=schneider" onMouseOver="return overlib('Oct. 14&mdash;Nov. 11, 2007')" onMouseOut="nd();">karin Schneider</a><br><a href="http://orchard47.org/testshow.php?name=Davey" onMouseOver="return overlib('Nov. 18 &ndash; Dec.16 2007')" onMouseOut="nd();">Calendar of flowers, gin bottles, steak bones</a><br></table>
+<br />
+<br />
+
+<b>Past Exhibitions:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=The Collective" onMouseOver="return overlib('April 1 &ndash;April 29, 2007')" onMouseOut="nd();">On The Collective For Living Cinema</a><br><a href="http://orchard47.org/testshow.php?name=Jef Geys" onMouseOver="return overlib('February 4 &ndash; March 4, 2007')" onMouseOut="nd();">Jef Geys</a><br><a href="http://orchard47.org/testshow.php?name=I Like You" onMouseOver="return overlib('December 29 &ndash; December 31, 2006')" onMouseOut="nd();">I Like You and You Like Me</a><br><a href="http://orchard47.org/testshow.php?name=Sylvia Rivera Law Project Art Opening" onMouseOver="return overlib('October 22&ndash;29, 2006')" onMouseOut="nd();">Sylvia Rivera Law Project Art Opening</a><br><a href="http://orchard47.org/testshow.php?name=Around the Corner" onMouseOver="return overlib('November 5&ndash;December 17, 2006')" onMouseOut="nd();">Around the Corner: Zoe Leonard, Petra Wunderlich, Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testshow.php?name=nic" onMouseOver="return overlib('September 10&ndash;October 22, 2006')" onMouseOut="nd();">Nicol&aacute;s Guagnini: The Middle Class Goes to Heaven (2005&ndash;06)<br> Dan Graham: Death by Chocolate: West Edmonton Shopping Mall (1986&ndash;2005)</a><br><a href="http://orchard47.org/testshow.php?name=Reality/Play" onMouseOver="return overlib('June 4&ndash;June 30, 2006')" onMouseOut="nd();">Reality/Play</a><br><a href="http://orchard47.org/testshow.php?name=Vera" onMouseOver="return overlib('April 23&ndash;May 21, 2006')" onMouseOut="nd();">Vera</a><br><a href="http://orchard47.org/testshow.php?name=Heard Not Seen" onMouseOver="return overlib('March 10&ndash;April 9, 2006')" onMouseOut="nd();">Heard Not Seen</a><br><a href="http://orchard47.org/testshow.php?name=Having Been Described In Words" onMouseOver="return overlib('January 22&ndash;March 5, 2006')" onMouseOut="nd();">Having Been Described In Words</a><br><a href="http://orchard47.org/testshow.php?name=Painters Without Paintings and Paintings Without Painters" onMouseOver="return overlib('December 10 &ndash;January 15, 2006')" onMouseOut="nd();">Painters Without Paintings and Paintings Without Painters</a><br><a href="http://orchard47.org/testshow.php?name=Small Works For Big Change" onMouseOver="return overlib('December 3&ndash;4, 2005')" onMouseOut="nd();">Small Works For Big Change</a><br><a href="http://orchard47.org/testshow.php?name=Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs" onMouseOver="return overlib('October 30 &mdash;  November 27, 2005')" onMouseOut="nd();">Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs</a><br><a href="http://orchard47.org/testshow.php?name=Martin Beck" onMouseOver="return overlib('May 6&mdash;June 10, 2007')" onMouseOut="nd();">Martin Beck</a><br><a href="http://orchard47.org/testshow.php?name=September 11. 1973." onMouseOver="return overlib('September11&ndash;October 23, 2005')" onMouseOut="nd();">September 11. 1973.</a><br><a href="http://orchard47.org/testshow.php?name=Part Three, Last Minute" onMouseOver="return overlib('June 29 &mdash;  July 16, 2005')" onMouseOut="nd();">Part Three, "Last Minute"</a><br><a href="http://orchard47.org/testshow.php?name=Poles" onMouseOver="return overlib('January 7 &ndash; January 28, 2007')" onMouseOut="nd();">Polish Socialist Conceptualism of the 70s</a><br><a href="http://orchard47.org/testshow.php?name=Part Two" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part Two</a><br><a href="http://orchard47.org/testshow.php?name=Part One" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part One</a><br></table>
+
+</div>
+
+
+
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+
+<div id="headline3"><br>Christian Philipp M&uuml;ller</div><div id="blurb">11/21957 Biel, Switzerland<br>
+1982 - 84 F+F Zurich<br>
+1984 - 88 Art Academy D&uuml; sseldorf<br>
+lives and works in Brooklyn, NY<br><br></div><div id="exhibitionsblurb"><b>SOLO EXHIBITIONS</b>
+<br>
+
+2004	<i>“Taste of the Day / Im Geschmack der Zeit. Das Werk von Hans und Marlene Poelzig aus heutiger Sicht”</i>, Uni Campus Westend (IG - Hochhaus), Johann Wolfgang Goethe Universit&auml;t, Frankfurt am Main, and at the Architekturmuseum Basel. Hudson <i>Valley Tastemakers indoors</i>, for Mainstreet 197 Beacon, NY
+<br>
+2003	<i>“Taste of the Day / Im Geschmack der Zeit. Das Werk von Hans und Marlene Poelzig aus heutiger Sicht”</i>, Verein zur F&ouml;  rderung von Kunst und Kultur am Rosa-Luxemburg-Platz,Weydingerstra&szlig; e, Berlin.
+<i>“Hudson Valley Tastemaker“</i>, Watershed, The Hudson Valley Art Project, Bard College, Annandale-on-Hudson, New York.
+<i> “Spice up Powdermaker“</i>, Social Sciences Building, Queens College, New York.
+<br>
+2002	<i> “A Taste for Money” </i>, Galerie Christian Nagel, Cologne<br><br>
+<br>
+2001	<i> “Humus” </i>, Erfrischungsraum, HGKL, Lucerne
+<br>
+2000	<i> “A Sense of Place”</i>, American Fine Arts, Co., New York<br>
+<i> “Launch of The MICA Foundation” </i>, The MICA Foundation, New York<br>
+1999	<i> “A World of it’s Own”</i>, Freihaus, Vienna<br>
+1998	<i> “Imagetransfer”</i>, Galerie Christian Nagel, Cologne<br>
+<i> “Some Things Never Change“</i>, Galleria Massimo De Carlo, Milan<br>
+<i> “Naturalezas Muertas”</i>, Galeria Oliva Arauna, Madrid<br>
+<i> “The Campus as A Work of Art” </i> University L&uuml;  neburg“,<br>
+1997	<i> “Was nahe liegt, ist doch so fern” </i>, Kunstverein Hamburg<br>
+1996	<i> “On Tour” </i>, Christian Nagel, Cologne, Art Basel<br>
+1995	“News and Gifts“</i>, American Fine Arts, New York<br>
+1994	“Tour de Suisse” </i>, Kunstraum der Universit&auml;t L&uuml;  neburg<br>
+“Tour de Suisse“</i>, Fri-Art, Centre d'Art Contemporain/Kunsthalle, Fribourg <br>
+<i> “Showroom“</i>, Galleria Massimo de Carlo, Milan (with Mario Airo) <br>
+<i> “Interpellations“</i>, American Fine Arts, Co., New York<br>
+<i> “Touring Club“</i>, Kunstraum der Universit&auml;t L&uuml;  neburg<br>
+1993	<i> “Nur auf der Durchreise“</i>, Christian Nagel, Unfair, Cologne<br>
+<i>"The Family of Austrians“</i>, Galerie Metropol, Vienna<br>
+<i> “Representatives“</i>, Biennale di Venezia, Austrian Pavilion, Venice <br>
+(with Andrea Fraser, Gerwald Rockenschaub)
+1992	<i> “A Sense of Friendliness, Mellowness, and Permanence“</i>, American Fine <br>Arts, Co., New York
+<i> “Forgotten Future“</i>, Kunstverein Munich<br>
+1991	<i> “Fixed Values“</i>, Palais des Beaux-Arts, Brussels<br>
+1990	<i> “K&ouml; ln-D&uuml; sseldorf“</i>, Galerie Christian Nagel, Cologne<br>
+<i> “Antwerpen, Linkes Ufer“</i>, Gallery Micheline Szwajcer, Antwerp<br>
+1989	<i> “porte bonheur“</i>, Maison de la Culture et de la Communication, St. Etienne<br>
+1988	<i> “Eh! bien prenons la plume“</i>, Arti et Amicitiae, Amsterdam<br>
+1986	<i> “Carl Theodor's Garten in D&uuml; sseldorf-Hellerhof“</i>, D&uuml; sseldorf-Hellerhof<br>
+<i> “Kleiner F&uuml; hrer durch die Ehem. Kurf&uuml; rstliche Gem&auml;ldegalerie D&uuml; sseldorf“</i>, Kunstakademiegeb&auml;ude D&uuml;sseldorf<br><br>
+
+<b>GROUP SHOWS</b><br>
+2005	<i> “What Business are you in?” </i> Atlanta Contemporary Art Center, Atlanta
+Mead Gallery at The University of Warwick, Coventry<br>
+2004	<i> “Election“</i>, American Fine Arts, Co., Colin de Land Fine Art, New York<br>
+2002	<i> “Economies of Time “</i>, Museum Ludwig, Cologne, Akademie der K&uuml;nste, Berlin; Migros Museum, Zurich. <br>
+<i> “Minimal Maximal“</i>, Seoul, Korea. <br>
+<i> “Spacing the Line: Performativity and Passage Zones“</i>,  Academy of Visual Arts, Leipzig. <br>
+
+2001	<i> “Minimal Maximal“</i>, Fukuoka Art Museum, Fukuoka; Restaurant of Chiba City; Museum of Art, Chiba; Kyoto<br>
+<i> “The Museum as Subjects“</i>, The National Museum of Art, Osaka<br>
+<i> “Und keiner hinkt, 22 Wege vom Schwegler wegzukommen“</i>, Kunsthalle D&uuml;ssedorf<br>
+<i> “Projekt Ansitz L&ouml; wengang“</i>, Alois Lageder Vinery, Margreid, Bozen<br>
+<i> “Und keiner hinkt, 22 Wege vom Schwegler wegzukommen“</i>, Museum Kurhaus Kleve, Edwald Matar&eacute;  Sammlung, Kleve<br>
+<i> “Antagonisms“</i>, MACBA, Barcelona<br>
+<i> “Sammlung Gr&auml;sslin“</i>, Deichtorhallen Hamburg<br>
+1999	<i> “autofocus“</i>, BAK/Office f&auml;derale de la Culture Suisse, Kunsthalle Zurich<br>
+<i> “Moving Images. Film - Reflexion in der Kunst“</i>, Galerie f&uuml;r Zeitgen&ouml; ssische Kunst, Leipzig<br>
+<i> “Minimal-Maximal“</i>, Centro Galego de Arte Contemporanea, Santiago de Compostela, Spanien, Kunsthalle Baden-Baden<br>
+1998	<i> “Minimal-Maximal“</i>, Neues Museum Weserburg, Bremen<br>
+<i> “Freie Sicht aufs Mittelmeer“</i>, Kunsthaus Z&uuml;rich; Schirn Kunsthalle, Frankfurt <br>
+<i> “Fast Forward“</i>, Kunstverein Hamburg<br>
+1997	<i> “documenta X“</i>, Kassel<br>
+<i> “Andere Orte“</i> Kartause, Ittingen, Kunstmuseum des Kanton, Thurgau <br>
+<i> “Landmarks“</i> John Weber Gallery, New York<br>
+1996	<i> “Family-Nation-Tribe-Community-Shift“</i>, zeitgen&ouml; ssische k&uuml;nstlerische Konzepte, Haus der Kulturen der Welt NGBK, Berlin<br>
+<i> “nach weimar“</i>, Kunstsammlung zu Weimar, Weimar<br>
+<i> “Landschaft (mit dem Blick der 90er Jahre)" </i>, Haus am Waldsee, Berlin; Museum Schlo&eacute;  Burgk, Burgk/Saale<br>
+<i>"Shift"</i>, Haus der Kulturen der Welt, NGBK, Berlin<br>
+1995	<i> “Landschaft (mit dem Blick der 90er Jahre)" </i>, Mittelrhein-Museum, Koblenz (D) <br>
+<i> “Aufforderung in sch&ouml; nster Weise“</i>, Galerie Christian Nagel, Cologne<br>
+<i> “Christian Philipp M&uuml;ller and Friends“</i>, Fettstr. 7a, Zurich<br>
+<i> “Platzwechsel“</i> with Ursula Biermann, Tom Burr and Mark Dion, Kunsthalle, and National History Museum, Zurich<br>
+1994	<i> “temporary translation(s) - Sammlung Sch&uuml;rmann"</i>, Deichtorhallen, Hamburg<br>
+<i> “Double Vision“</i>, kuratiert von Olivier Mosset und Not Vital, The Swiss Institute, New York<br>
+<i> “National Photograph“</i>, Petzel/Borgmann, New York Metro Pictures, New York<br>
+“Sommerakademie M&uuml;nchen - Eine freie Akademie auf Zeit“, Kunstverein Munich<br>
+1993	<i> “Kontext Kunst/Context Art"</i>, Graz<br>
+<i> “What Happened to the Institutional Critique“</i>, American Fine  Arts, Co., New York<br>
+<i> “Project Unit&auml;“ </i>, Firminy<br>
+<i> “Project-Art, Docu Matter“</i>, Andrea Rosen, New York<br>
+<i> “Les M&uuml;llers“</i>, Kunsthalle Fribourg<br>
+1992	<i> “Qui, quoi, o&ouml; ?“ </i>, Un regard sur l'art en Allemagne en 1992, ARC/Mus&auml;e d'Art Moderne de la Ville de Paris<br>
+<i> “Groupshow"</i>, American Fine Arts, Co., New York<br>
+<i> “Wohnzimmer/B&uuml;ro“</i>, Galerie Christian Nagel , Cologne<br>
+<i> “13 Kuratoren, 26 Fotografen“</i>, Barcelona<br>
+1991	<i> “Tabula Rasa"</i>, Biel<br>
+<i> “Eine Ausstellung mit Fareed Armaly, Cosima von Bonin, Michael Krebber und Christian Philipp M&uuml;ller“</i>, K-Raum Daxer, Munich<br>
+<i> “Le Monde Critique“</i>, Kunstinsel, Hamburg<br>
+1990	<i> “The Message as Medium“</i>, <i> “Cash-Flow“</i>und <i> “Standard“</i>, Museum in Progress, Vienna<br>
+<i> “Auftakt</i> 1990“ (with Fareed Armaly), Galerie Ralph Wernicke, Stuttgart, Galerie Birgit K&uuml;ng, Zurich, Galerie Bleich-Rossi, Graz, Galerie Christian Nagel, Cologne<br>
+<i> “The K&ouml; ln Show"</i> (mit Fareed Armaly), Galeriehaus Venloer Str. 21, Cologne<br>
+1989	<i> “Theatergarden Bestiarium“</i>, PS1, New York, Teatro Lopez de Vega, Sevilla, Confort Moderne, Poitiers<br><br>
+
+<b>ONGOING PROJECTS</b>
+<br>
+<i>”Spice up Powdermaker“</i>, three installations at the Social Sciences Building, Queens College, New York, 2003 - <br>
+<i> “Hudson Valley Tastemaker“</i>,  Watershed, The Hudson Valley Art Project, Bard College, Annandale-on-Hudson, New York, 2003 – <br>
+<i> “1% Tower” </i>, a permanent public art project in collaboration with 12 French universities, art, architecture and engineering schools, Les Grands Ateliers de l’Isle d’Abeau, 2001 -<br>
+<i> “On the desire to live in perfect tune with nature“</i>, Wintergarden, Alois Lageder Vinery, Ansitz L&ouml; wengang, Magreid, Italien, 2001 -<br>
+<i> “The Campus as A work of Art” </i> University L&uuml;neburg“, 1998 <br><br>
+
+
+<b>VIDEOS</b><br>
+<i> “Taste of the Day / Im Geschmack der Zeit” </i>, video,  Berlin, 2003, camera Madeleine Bernstorff<br>
+<i> “Monsieur M&uuml;ller...“ </i>, Hamburg, 1998, Video, camera Jan Lackner<br>
+<i> “A Balancing Act“</i>, 1997, Video, camera Jan Lackner<br>
+<i> “Tour de Suisse“</i>, 1994, Video, 150 Min., camera Michel Ritter, produced by Fri-Art, Fribourg<br>
+<i> “A Public Bath for Munster / Ein &ouml; ffentliches Bad f&uuml;r M&uuml;nster“</i>, 1987, TV Film, 39 Min., directed by Jeff Cornelis, and Chris Dercon, Brygida Ochaim, 1987, RTB, Br&uuml;ssel<br><br>
+
+<b>AUDIO CD</b><br>
+<i> “A World of it’s Own / Eine Welt f&uuml;r sich“</i>, 1999, for ORF Kunstradio, Austrian Radio<br><br>
+
+<b>TEACHING</b><br>
+Guest professor Sculpture at Cooper Union, New York, 1994 and 1996<br>
+Guest professor Sculpture at HGKZ, Hochschule f&uuml;r Gestaltung und Kunst, Z&uuml;rich, 2002<br>
+Workshops, seminars and thesis adviser at MFA program at Vermont College, School of Visual Arts, New York, Academy of Visual Arts in Hamburg, CCC Geneva, University of L&uuml;neburg, Merz Academy Stuttgart, F+F Zurich, HGKZ Lucerne, and Ecole d’architecture Grenoble. <br>
+Lectures at Columbia University, Dia center for the arts, Bard College, Emory University, Atlanta, Goldsmiths London, Art Academy Vienna, Ecole des Beaux Arts, Lyon, Art Academy D&uuml;sseldorf, Academy of Visual Arts in Kassel, Jan van Eyck Academy Maastricht, SUNY New Paltz, SUNY Purchase, SUNY Queens College. <br> <br>
+
+<b>PUBLICATIONS AND ARTIST BOOKS</b><br>
+2003	<i> “Taste of the Day / Im Geschmack der Zeit” </i> Berlin<br>
+2001	<i> “Branding the Campus, Kunst, Architektur, Design, Identitypolitics“</i>, published by Beatrice von Bismarck, Diethelm Stoller, Astrid Wege, Ulf Wuggenig, Richter Verlag, 2001<br>
+2000	<i> “MICA Foundation“</i>, Text by George Baker, NYC<br>
+1999	<i> “A world of its Own / Eine Welt f&uuml;r sich“</i>, Ein Projekt rund ums Freihaus in Wien, IG Kaufleute Freihausviertel, Vienna 1999. <br>
+<i> “Autofocus“</i>, Christian Philipp M&uuml;ller, BAK, Bern und Kunsthalle Z&uuml;rich, Z&uuml;rich 1999<br>
+1997	<i> “Public Art is Everywhere / Kunst auf Schritt und Tritt“</i>, Christian Philipp M&uuml;ller und Achim K&ouml; nneke im Auftrag der Kulturbeh&ouml; rde Hamburg, Hamburg<br>
+1993	<i> “Representatives” </i>, Andrea Fraser, Christian Philipp M&uuml;ller, Gerwald Rockenschaub", Venice<br>
+<i> “What Happened to the Institutional Critique“</i>, American Fine Arts, Co., New York<br>
+1992	<i> “Forgotten Future / Vergessene Zukunft “</i>, Kunstverein Munich<br>
+1991	<i> “Fixed Values / Feste Werte“</i>, Palais des Beaux-Arts, Brussels<br>
+<i> “Le Monde Critique“</i>, Kunstinsel, Hamburg<br>
+1990	<i> “Eine Ausstellung mit Fareed Armaly, Cosima von Bonin, Michael Krebber,Christian Philipp M&uuml;ller“</i>, Kunstraum Daxer, Munich<br>
+<i> “Promenade“</i>, Antwerp<br>
+1989	<i> “porte bonheur“</i>, MCC Saint-Etienne<br>
+<i> “Bestiarium/Theatergarten Bestiarium“</i>, P.S. 1, New York; Teatro Lopez de Vega, Sevilla; Confort Moderne, Poitier<br>
+1988	<i>”Eh! bien prenons la plume“</i>, Arti et Amicitae, Amsterdam<br>
+1987	<i> “anderswo“</i>, D&uuml;sseldorf (with Kasper K&ouml; nig) <br>
+1986	<i> “Carl Theodors Garten in D&uuml;sseldorf-Hellerhof“</i>, D&uuml;sseldorf-Hellerhof<br>
+“Kleiner F&uuml;hrer durch die Ehem”, Kurf&uuml;rstliche Gem&auml;ldegalerie D&uuml;sseldorf, D&uuml;sseldorf<br>
+1984	<i> “Siehe da, ein m&ouml; gliches Leben hat sich eingerichtet“</i>, D&uuml;sseldorf/Z&uuml;rich<br><br>
+
+<b>SELECTED BIBLIOGRAPHY</b>
+<br>
+Alberro, Alexander; Unraveling the Seamless Totality: Christian Philipp M&uuml;ller and the Reevaluation of Established Equations, in: Grey Room 06, Winter 2002, p 6-25<br><br>
+Anastas, Rhea: Christian Philipp M&uuml;ller, in: Watershed, Minetta Brook, 2002, p 120-131<br><br>
+Baker, George; Lies, Damn Lies, and Statistics. The Art of Christian Philipp M&uuml;ller, in: Artforum, February 1997, S. 74-77 u. 109<br><br>
+Tourist Information: Cildo Meireles and Christian Philipp M&uuml;ller, in: Trans arts.cultures.media, Vol. 1/2, No.3/4, 1997 <br><br>
+Becker, Jochen; Schmerzlich ausbaden, "Vergessene Zukunft"; in: Die Tageszeitung, 9. Juni 1992<br><br>
+Benz, Marion; Zwischen Avantgarde und Tradition, in: Basler Zeitung, 13. September 2004, S. 6-7<br><br>
+Germer, Stefan; Unter Geiern, Kontext-Kunst im Kontext; in: Texte zur Kunst, Nr. 19, Aug.1995, S. 83-95<br><br>
+Blase, Christoph; Wehe, wenn die Werke nicht mehr senden; in:Frankfurter Allgemeine Zeitung, 24. January 1995, S.27<br><br>
+Das Wertsystem aus der Vitrine, von der Selbstinszenierung der Kunst und des K&uuml;nstlers: Christian Philipp M&uuml;ller in Br&uuml;ssel; in: Frankfurter Allgemeine Zeitung, 2. January 1992<br><br>
+Dannat, Adrian; Christian Philipp M&uuml;ller, Micheline Szwajcer; in: Flash Art, 1990<br><br>
+Decter, Joshua; and Zahm, Oliver; Back to Babel, Projet Unit&auml;, Firminy; in: Artforum International, November <br><br>
+Draxler, Helmut; Vergessene Zukunft; in: Kunstforum International, Bd.123, 1992<br><br>
+Dziewior, Yilmaz: Christian Philipp M&uuml;ller, Galerie Christian Nagel, Cologne, in: Artforum January 1999, S. 127-128 <br><br>
+Fiedler, Elisabeth; Verst&auml;ndnis f&uuml;r Verbindung aus Avantgarde und Wirtschaftlichkeit; in: Neue Zeit, 8. May 1991<br><br>
+Gass, Janine; Denkmal? Denk mal!; in: Weekend, 22./23. May 1991<br><br>
+Graw, Isabelle; Leben und Werk des Kurators; in: Artis, October 1993<br><br>
+La Culture, Zur Ausstellung "Project Unit&auml;" In Firminy; in: Artis, September 1993<br><br>
+Preisgestaltung, Ein Interview mit Christian Philipp M&uuml;ller; in: Artis, M&auml;rz 1992<br><br>
+Christian Philipp M&uuml;ller, Christian Nagel, K&ouml; ln; in: Artis, Febuar 1991<br><br>
+Field Work; in: Flash Art, Nr.155, November/ Dezember 1990<br><br>
+Jugend forscht (Armaly, Dion, Fraser, M&uuml;ller); in: Texte zur Kunst, Heft 1 Herbst 1990<br><br>
+Hermes, Manfred; Out of sight but still here; in: 13 critics, 26 fotographs, April/Mai 1992<br><br>
+Christian Philipp M&uuml;ller, Christian Nagel; in: Artscribe, March/April 1991<br><br>
+Iannacci, Anthony; Mario Air&ograve; /Christian Philipp M&uuml;ller. Massimo de Carlo; in: Artforum, November 1994, S.94-95. <br><br>
+Karcher, Eva; Die unerf&uuml;llte Moderne - eine Geschichte gescheiterter Tr&auml;ume; in: S&uuml;ddeutsche Zeitung, 19. Mai 1992<br><br>
+Die neunziger Jahre: K&uuml;nstler als Forscher; in: art July 1994, S. 50-61<br><br>
+K&ouml; niger, Maribel; Qui, quoi, o— - Un regard sur l'art en Allemagne en 1992; in: Kunstforum International Band 121, 1993 <br><br>
+Krebber, Michael; K&ouml; ln-D&uuml;sseldorf; in: Texte zur Kunst, Nr.2 1991<br>Krumpl, Doris; Trachten-Umzug als &OUML; sterreich-Bild; 1993<br><br>
+Trigon - die Kunst zum Papier: Es ist ein weites &auml;sthetisches Feld; in: Standard, 4. Oktober 1993<br><br>
+Kwon, Miwon: in: “One Place After Another: Notes on site Specificity”, October 80, 1997, p 85-110<br><br>
+Lambrecht, Luk; Curator Yves Aupetitallot over hedendaagse kunstproduktie. Projecten in Firminy en Antwerpen; in: sint-lukasgalerij, M&auml;rz 1994<br><br>
+Een nieuwe lente; in: L'Annual de l'Art, Januar 1994<br><br>
+Christian Philipp M&uuml;ller, Self-crowded critic; in: Flash Art, March/April 1992<br><br>
+Tabula Rasa, Biel/Bienne; in: Forum International, No.9, September 1991<br><br>
+Leen, Frederik; Subject and Non-Identity in the work of Christian Philipp M&uuml;ller and some motifs by Walter Benjamin; in: Forum International, No.11 Januar 1992<br><br>
+Melchart, Erwin; Grenzg&auml;nger der Kunst; in: Neue Kronenzeitung (Abendausg.), Wien, 25. Mai 1993<br><br>
+Metzger, Rainer; Christian Philipp M&uuml;ller. "The Family of Austrians"; in: Kunstforum International, Januar/Febuar 1994, S. 375-376<br><br>
+Meyer, Christian; "Christian Philipp M&uuml;ller"; in: Camera Austria 49, S. 15-23<br><br>
+Meyer, James; "What Happened to the Institutional Critique"; New York, September 1993<br><br>
+“Die Bedingung von Boheme“; in: Texte zur Kunst, Mai 1995, Nr.18, S.76-81<br><br>
+“Nomads“; in: The Parkett series with Artists,  Mai 1997; Nr. 35, S. 205-214<br><br>
+M&uuml;ller, Silke; "Die Studenten erproben sich als Ausstellungsmacher"; in: art, Nr.2, Februar 1995, p.108<br><br>
+Muller, Robert-Jan; "Eh! bien prenons la plume Arti et Amicitiae; in: Neue Kunst in Europa, Oktober/November 1988<br><br>
+Nemeczek, Alfred; „Sie kann es wirklich schaffen“; in: art Nr. 10, Oktober 1996<br><br>
+N.N.; Hamburg und die Intendanten, in: Spiegel Spezial Nr.12 (1996), S.79<br><br>
+N.N.; K&uuml;nstlerisches Nachdenken &uuml;ber den Platzspitz; in: Neue Z&uuml;richer Zeitung, 30.6.1995<br><br>
+N.N.; Umfrage: Have you been thinking of leaving New York, and if so, why?, in: Texte zur Kunst, Juni 2004, Nr. 54, S.101-110<br><br>
+Oberhuber, Oswald; Bitte, arbeiten lassen; in: Profil, Nr.51, Dezember 1992<br><br>
+Polzer, Brita; Z&uuml;rich: "Platzwechsel" in der Kunsthalle; in: Kunstbulletin 7/8, 1995<br><br>
+Puvogel, Renate; Biennale Venedig 1993; in: Artis, September 1993 <br><br>
+Prodhon, Francoise-Claire; Unite, Art Architecture Design; in: Flash Art, Nr.169, March/April 1993<br><br>
+Sch&ouml; llhammer, Georg; Kunst des demokratischen Feudalismus; in: Der Standard, 6. November 1992<br><br>
+Christian Philipp M&uuml;ller: was nahe liegt ist doch so fern; in: springer, Bd III,
+Heft 2/97,  S. 69-70<br><br>
+Legion&auml;re nach Venedig; in: Der Standard, 21. Oktober 1992<br><br>
+Sch&uuml;nemann, Ingrid; Komplex und Spannend; in: M&auml;nner Vogue, Juni 1993<br><br>
+Stals, Jos&auml; Lebrero; Christian Philipp M&uuml;ller, Christian Nagel; in: Flash Art, No.156  Januar/Febuar 1991<br><br>
+Steinberg, Claudia; Und pl&ouml; tzlich spricht die Bank, in: Die Zeit, Nr. 47, 13. November 2003, p. 69-70<br><br>
+Tarantino, Michael; Christian Philipp M&uuml;ller, Galerie Micheline Szwajcer; in: Artforum, 1990<br><br>
+Vettese, Angela; Mario Airo and Christian Philipp M&uuml;ller. <br><br>
+Massimo de Carlo Gallery, Milan; in: frieze, Jan/Feb. 1995, p. 59+60<br><br>
+Volkart, Yvonne; Platzwechsel; in: springer, September 1995, p.83<br><br>
+Wege, Astrid; Christian Philipp M&uuml;ller, "Touring Club", Kunstraum der Universit&auml;t L&uuml;neburg; in: Texte zur Kunst, Februar 1995, 5.Jg. Nr.17, p.181-184<br><br><br><br><br>
+
+</div>			
+		
+			
+		
+			
+			
+			
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

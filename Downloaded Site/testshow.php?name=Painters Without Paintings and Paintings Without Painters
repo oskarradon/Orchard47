@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Orchard47</title>
+<link href="styles/style_exhibition.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="overlib/overlib3.js"><!-- overLIB (c) Erik Bosrup --></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function show(obj) {
+	if (document.getElementById) {
+		document.getElementById(obj).style.visibility = "visible";
+	}
+}
+function hide(obj) {
+	if (document.getElementById) { 
+		document.getElementById(obj).style.visibility = "hidden";
+	}
+}
+
+//-->
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #FF00FF}
+-->
+</style>
+</head>
+
+<a href="http://orchard47.org/index.php"><div id="headline1">
+Orchard
+</div>
+</a>
+
+
+
+
+
+
+
+<body class="body">
+<div id="bar1"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="info"> 47 Orchard Street<br />
+NYC, NY 10002<br />
+(212) 219&ndash;1061<br />
+<a href="mailto:contact@orchard47.org">contact@orchard47.org</a>
+<br />
+<br />
+F train to East Broadway <br />
+or B, D to Grand<br />
+Gallery Hours: Thurs&ndash;Sun 1 to 6</div>
+
+
+
+<div id="names">
+
+
+
+
+
+
+
+
+<a href="http://orchard47.org/testartist.php?name=Rhea Anastas" >Rhea Anastas</a><br><a href="http://orchard47.org/testartist.php?name=Moyra Davey" >Moyra Davey</a><br><a href="http://orchard47.org/testartist.php?name=Andrea Fraser" >Andrea Fraser</a><br><a href="http://orchard47.org/testartist.php?name=Nicolas Guagnini" >Nicol&aacute;s Guagnini</a><br><a href="http://orchard47.org/testartist.php?name=Gareth James" >Gareth James</a><br><a href="http://orchard47.org/testartist.php?name=Christian Philipp Muller" >Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testartist.php?name=Jeff Preiss" >Jeff Preiss</a><br><a href="http://orchard47.org/testartist.php?name=R.H. Quaytman" >R.H. Quaytman</a><br><a href="http://orchard47.org/testartist.php?name=Karin Schneider" >Karin Schneider</a><br><a href="http://orchard47.org/testartist.php?name=Jason Simon" >Jason Simon</a><br><a href="http://orchard47.org/testartist.php?name=John Yancy, Jr." >John Yancy, Jr.</a><br>Anonymous</div>
+
+
+<div id="bar3"><img src="images/bar_long.gif" width="393" height="7" /></div>
+
+
+<div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div>
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+
+<div id="exhibitions">
+
+
+<b>Current Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=detourism" onMouseOver="return overlib('July 1&mdash;July 28, 2007')" onMouseOut="nd();">detourism</a><br></table>
+<br />
+
+<br />
+<b>Future Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+<table border='0'><a href="http://orchard47.org/testshow.php?name=Sadie Benning" onMouseOver="return overlib('Sept 9 &ndash; Oct 7, 2007')" onMouseOut="nd();">Sadie Benning</a><br><a href="http://orchard47.org/testshow.php?name=schneider" onMouseOver="return overlib('Oct. 14&mdash;Nov. 11, 2007')" onMouseOut="nd();">karin Schneider</a><br><a href="http://orchard47.org/testshow.php?name=Davey" onMouseOver="return overlib('Nov. 18 &ndash; Dec.16 2007')" onMouseOut="nd();">Calendar of flowers, gin bottles, steak bones</a><br></table>
+<br />
+<br />
+
+<b>Past Exhibitions:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=The Collective" onMouseOver="return overlib('April 1 &ndash;April 29, 2007')" onMouseOut="nd();">On The Collective For Living Cinema</a><br><a href="http://orchard47.org/testshow.php?name=Jef Geys" onMouseOver="return overlib('February 4 &ndash; March 4, 2007')" onMouseOut="nd();">Jef Geys</a><br><a href="http://orchard47.org/testshow.php?name=I Like You" onMouseOver="return overlib('December 29 &ndash; December 31, 2006')" onMouseOut="nd();">I Like You and You Like Me</a><br><a href="http://orchard47.org/testshow.php?name=Sylvia Rivera Law Project Art Opening" onMouseOver="return overlib('October 22&ndash;29, 2006')" onMouseOut="nd();">Sylvia Rivera Law Project Art Opening</a><br><a href="http://orchard47.org/testshow.php?name=Around the Corner" onMouseOver="return overlib('November 5&ndash;December 17, 2006')" onMouseOut="nd();">Around the Corner: Zoe Leonard, Petra Wunderlich, Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testshow.php?name=nic" onMouseOver="return overlib('September 10&ndash;October 22, 2006')" onMouseOut="nd();">Nicol&aacute;s Guagnini: The Middle Class Goes to Heaven (2005&ndash;06)<br> Dan Graham: Death by Chocolate: West Edmonton Shopping Mall (1986&ndash;2005)</a><br><a href="http://orchard47.org/testshow.php?name=Reality/Play" onMouseOver="return overlib('June 4&ndash;June 30, 2006')" onMouseOut="nd();">Reality/Play</a><br><a href="http://orchard47.org/testshow.php?name=Vera" onMouseOver="return overlib('April 23&ndash;May 21, 2006')" onMouseOut="nd();">Vera</a><br><a href="http://orchard47.org/testshow.php?name=Heard Not Seen" onMouseOver="return overlib('March 10&ndash;April 9, 2006')" onMouseOut="nd();">Heard Not Seen</a><br><a href="http://orchard47.org/testshow.php?name=Having Been Described In Words" onMouseOver="return overlib('January 22&ndash;March 5, 2006')" onMouseOut="nd();">Having Been Described In Words</a><br><a href="http://orchard47.org/testshow.php?name=Painters Without Paintings and Paintings Without Painters" onMouseOver="return overlib('December 10 &ndash;January 15, 2006')" onMouseOut="nd();">Painters Without Paintings and Paintings Without Painters</a><br><a href="http://orchard47.org/testshow.php?name=Small Works For Big Change" onMouseOver="return overlib('December 3&ndash;4, 2005')" onMouseOut="nd();">Small Works For Big Change</a><br><a href="http://orchard47.org/testshow.php?name=Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs" onMouseOver="return overlib('October 30 &mdash;  November 27, 2005')" onMouseOut="nd();">Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs</a><br><a href="http://orchard47.org/testshow.php?name=Martin Beck" onMouseOver="return overlib('May 6&mdash;June 10, 2007')" onMouseOut="nd();">Martin Beck</a><br><a href="http://orchard47.org/testshow.php?name=September 11. 1973." onMouseOver="return overlib('September11&ndash;October 23, 2005')" onMouseOut="nd();">September 11. 1973.</a><br><a href="http://orchard47.org/testshow.php?name=Part Three, Last Minute" onMouseOver="return overlib('June 29 &mdash;  July 16, 2005')" onMouseOut="nd();">Part Three, "Last Minute"</a><br><a href="http://orchard47.org/testshow.php?name=Poles" onMouseOver="return overlib('January 7 &ndash; January 28, 2007')" onMouseOut="nd();">Polish Socialist Conceptualism of the 70s</a><br><a href="http://orchard47.org/testshow.php?name=Part Two" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part Two</a><br><a href="http://orchard47.org/testshow.php?name=Part One" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part One</a><br></table>
+
+</div>
+
+
+<div id="bar2"><img src="images/bar.gif" width="182" height="7" /></div>
+
+
+<table border='0'cellspacing='5' cellpadding='0'><div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div><div id="arrowhead2"><a href="http://orchard47.org/testshow2.php?name=Painters Without Paintings and Paintings Without Painters&&id=10" onMouseOver="return overlib('View photos.', HEIGHT, 5, RIGHT, ABOVE)" onMouseOut="nd();" > <img src="images/arrow_head.gif" border="0"  /></a></div></table>
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+<div id="headline3">Painters Without Paintings and Paintings Without Painters</div><div id="blurb"><b>Organized By: Gareth James<br><img src="images/bar_dotted.gif" width="393" height="2" /><br /></b>
+
+Artists: BANK, Simon Bedwell, J. St. Bernard, Daniel Buren, Merlin Carpenter, Nicolás Guagnini,Jutta Koether, Michael Krebber, Lucy McKenzie, R.H. Quaytman, Blake Rayne, John Russell, Reena Spaulings, Cheyney Thompson<br></div><div id="exhibitionsblurb">Like the son of William Tell, standing there nervously with an apple perched on his head, caught between The State and its brutal enforcement of the Law(metonymically represented by a hat on a pole) and the distended individualism of his father, Orchard makes an attempt at a painting exhibition.
+<br/><br/>
+Perhaps now more than any other period in recent memory, the presumption of an immaculate self-identity between the objects that go by the name "painting" and the subjects given the name "painter" goes unquestioned. While we might welcome the new readiness to allow the practice of painting to generate its own historical and contemporary concerns, the new accord runs the risk of unreasonably delimiting the kinds of questions which may be posed in its name. Famously for Debord, the question was not whether filmmaker, writer, theoretician, anarchist was the better name to describe his practice, but how to refuse that nomination itself. Painters Without Paintings & Paintings Without Painters brings together the production of 14 artists and collaborative groups for whom facile identifications remain questionable.</div>			
+		
+			
+			
+			
+
+
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+
+</body>
+
+</html>

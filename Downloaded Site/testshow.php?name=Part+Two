@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Orchard47</title>
+<link href="styles/style_exhibition.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="overlib/overlib3.js"><!-- overLIB (c) Erik Bosrup --></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function show(obj) {
+	if (document.getElementById) {
+		document.getElementById(obj).style.visibility = "visible";
+	}
+}
+function hide(obj) {
+	if (document.getElementById) { 
+		document.getElementById(obj).style.visibility = "hidden";
+	}
+}
+
+//-->
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #FF00FF}
+-->
+</style>
+</head>
+
+<a href="http://orchard47.org/index.php"><div id="headline1">
+Orchard
+</div>
+</a>
+
+
+
+
+
+
+
+<body class="body">
+<div id="bar1"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="info"> 47 Orchard Street<br />
+NYC, NY 10002<br />
+(212) 219&ndash;1061<br />
+<a href="mailto:contact@orchard47.org">contact@orchard47.org</a>
+<br />
+<br />
+F train to East Broadway <br />
+or B, D to Grand<br />
+Gallery Hours: Thurs&ndash;Sun 1 to 6</div>
+
+
+
+<div id="names">
+
+
+
+
+
+
+
+
+<a href="http://orchard47.org/testartist.php?name=Rhea Anastas" >Rhea Anastas</a><br><a href="http://orchard47.org/testartist.php?name=Moyra Davey" >Moyra Davey</a><br><a href="http://orchard47.org/testartist.php?name=Andrea Fraser" >Andrea Fraser</a><br><a href="http://orchard47.org/testartist.php?name=Nicolas Guagnini" >Nicol&aacute;s Guagnini</a><br><a href="http://orchard47.org/testartist.php?name=Gareth James" >Gareth James</a><br><a href="http://orchard47.org/testartist.php?name=Christian Philipp Muller" >Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testartist.php?name=Jeff Preiss" >Jeff Preiss</a><br><a href="http://orchard47.org/testartist.php?name=R.H. Quaytman" >R.H. Quaytman</a><br><a href="http://orchard47.org/testartist.php?name=Karin Schneider" >Karin Schneider</a><br><a href="http://orchard47.org/testartist.php?name=Jason Simon" >Jason Simon</a><br><a href="http://orchard47.org/testartist.php?name=John Yancy, Jr." >John Yancy, Jr.</a><br>Anonymous</div>
+
+
+<div id="bar3"><img src="images/bar_long.gif" width="393" height="7" /></div>
+
+
+<div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div>
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+
+<div id="exhibitions">
+
+
+<b>Current Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=Jef Geys" onMouseOver="return overlib('February 4 &ndash; March 4, 2007')" onMouseOut="nd();">Jef Geys</a><br></table>
+<br />
+
+<br />
+<b>Future Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+<table border='0'><a href="http://orchard47.org/testshow.php?name=The Collective" onMouseOver="return overlib('April 1 &ndash;April 29, 2007')" onMouseOut="nd();">On The Collective For Living Cinema</a><br><a href="http://orchard47.org/testshow.php?name=Martin Beck" onMouseOver="return overlib('May 6&mdash;June 10, 2007')" onMouseOut="nd();">Martin Beck</a><br></table>
+<br />
+<br />
+
+<b>Past Exhibitions:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=I Like You" onMouseOver="return overlib('December 29 &ndash; December 31, 2006')" onMouseOut="nd();">I Like You and You Like Me</a><br><a href="http://orchard47.org/testshow.php?name=Sylvia Rivera Law Project Art Opening" onMouseOver="return overlib('October 22&ndash;29, 2006')" onMouseOut="nd();">Sylvia Rivera Law Project Art Opening</a><br><a href="http://orchard47.org/testshow.php?name=Around the Corner" onMouseOver="return overlib('November 5&ndash;December 17, 2006')" onMouseOut="nd();">Around the Corner: Zoe Leonard, Petra Wunderlich, Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testshow.php?name=nic" onMouseOver="return overlib('September 10&ndash;October 22, 2006')" onMouseOut="nd();">Nicol&aacute;s Guagnini: The Middle Class Goes to Heaven (2005&ndash;06)<br> Dan Graham: Death by Chocolate: West Edmonton Shopping Mall (1986&ndash;2005)</a><br><a href="http://orchard47.org/testshow.php?name=Reality/Play" onMouseOver="return overlib('June 4&ndash;June 30, 2006')" onMouseOut="nd();">Reality/Play</a><br><a href="http://orchard47.org/testshow.php?name=Vera" onMouseOver="return overlib('April 23&ndash;May 21, 2006')" onMouseOut="nd();">Vera</a><br><a href="http://orchard47.org/testshow.php?name=Heard Not Seen" onMouseOver="return overlib('March 10&ndash;April 9, 2006')" onMouseOut="nd();">Heard Not Seen</a><br><a href="http://orchard47.org/testshow.php?name=Having Been Described In Words" onMouseOver="return overlib('January 22&ndash;March 5, 2006')" onMouseOut="nd();">Having Been Described In Words</a><br><a href="http://orchard47.org/testshow.php?name=Painters Without Paintings and Paintings Without Painters" onMouseOver="return overlib('December 10 &ndash;January 15, 2006')" onMouseOut="nd();">Painters Without Paintings and Paintings Without Painters</a><br><a href="http://orchard47.org/testshow.php?name=Small Works For Big Change" onMouseOver="return overlib('December 3&ndash;4, 2005')" onMouseOut="nd();">Small Works For Big Change</a><br><a href="http://orchard47.org/testshow.php?name=Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs" onMouseOver="return overlib('October 30 &mdash;  November 27, 2005')" onMouseOut="nd();">Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs</a><br><a href="http://orchard47.org/testshow.php?name=September 11. 1973." onMouseOver="return overlib('September11&ndash;October 23, 2005')" onMouseOut="nd();">September 11. 1973.</a><br><a href="http://orchard47.org/testshow.php?name=Part Three, Last Minute" onMouseOver="return overlib('June 29 &mdash;  July 16, 2005')" onMouseOut="nd();">Part Three, "Last Minute"</a><br><a href="http://orchard47.org/testshow.php?name=Poles" onMouseOver="return overlib('January 7 &ndash; January 28, 2007')" onMouseOut="nd();">Polish Socialist Conceptualism of the 70s</a><br><a href="http://orchard47.org/testshow.php?name=Part Two" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part Two</a><br><a href="http://orchard47.org/testshow.php?name=Part One" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part One</a><br></table>
+
+</div>
+
+
+<div id="bar2"><img src="images/bar.gif" width="182" height="7" /></div>
+
+
+<table border='0'cellspacing='5' cellpadding='0'><div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div><div id="arrowhead2"><a href="http://orchard47.org/testshow2.php?name=Part Two&&id=11" onMouseOver="return overlib('View photos.', HEIGHT, 5, RIGHT, ABOVE)" onMouseOut="nd();" > <img src="images/arrow_head.gif" border="0"  /></a></div></table>
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+<div id="headline3"><br>Part Two</div><div id="blurb"><br></div><div id="exhibitionsblurb">PART TWO, June 3&ndash;  June 26, introduces historical and new works by Dan Graham, Nicolàs Guagnini, Jeff Preiss, and Karin Schneider to the inaugural exhibition at Orchard.
+<br/><br/>
+“Today’s ‘motion’ picture is returning to its first appearance as a series of static, unrelated moments. Muybridge’s serial photographs are relevant to movie-makers such as Godard, Warhol, Bochner and Moskowitz.”
+<br/><br/>
+“What distinguishes one moment from another is a simple alternation in the positioning of things. Each object is re-arranged relative to every other object and to the frame. Things don’t ‘happen’; they merely re-place themselves in space.”
+<br/><br/>
+Dan Graham, “Muybridge Moments: From Here to There?,” <i>Arts Magazine</i>, February 1967
+<br/><br/>
+In December 1966 Graham conceived <i>Project for Slide Projector</i>. During the same month, Graham’s early work, “Homes for America,” was presented in public for the first time as a slide projection in “Projected Art,” an exhibition that included films by Warhol, Robert Whitman and others. Organized by Elayne Varian, Director of the Contemporary Study Wing at Finch College, New York, “Projected Art” was one of the earliest exhibitions to present artist’s and experimental film in a visual arts context. Later that year Graham published “Homes for America,” an article about the serial forms of tract-housing, in its better known version in <i>Arts Magazine</i> (Dec. 1966
+&ndash;  Jan. 1967). 
+<br/><br/>
+<i>Project for Slide Projector</i> was, as Graham emphasized in his writing on the piece, “designed 
+for exhibition space installation: the Carousel slide projector as object: the message to be the mechanism of the medium in itself as an object.” (End Moments 1969) At the time Graham was known as an aspiring critic and advocate for emergent minimalist and conceptualist practices 
+and a former dealer at the little-known contemporary art gallery, John Daniels, New York (Dec. 1964 &ndash;   June 1965). 
+<br/><br/>
+<i>Projector for Slide Projector</i> was presented as a set of instructions for an experimental work 
+and a theoretical text that interrelated minimalist ideas of three-dimensional work with the conventions of photographic representation. Graham published his text in no less than three versions in 1969. In the period 1969&ndash;  70, a student of Graham’s at the Nova Scotia College of Art and Design in Halifax realized a set of slides for the work with Graham. To execute the piece, a rectangular structure of four glass panes with an open top and a bottom pane made of mirror was constructed, along with four glass boxes designed to nest within the first box. To create the photographs, a 35mm camera was placed close-up and parallel to the rectangular face of the large box so that the edge of the photograph and the edges of the box align. The camera operator shot each side of the glass and mirror structure, moving clockwise, and did the same as each additional box was added within the larger structure. The resulting set of twenty slides is duplicated in order to produce a set of slides that arrays the images in a forward and back-ward motion as they project. 
+<br/><br/>
+Over the carousel projection of 80 images, the degree of reflectivity and spatial ambiguity of 
+the mirror space Graham conceived moves cyclically and inverts, building and un-building. Located somewhere between the materials and experiences of sculpture and photography though essential to neither, <i>Project for Slide Projector</i> captures the experience of walking around a sculpture, that is, the spectator’s perception&ndash;  a site for significant artistic experimentation in the sixties. <i>Project for Slide Projector</i> can also be read as an image of the experience of looking at sculpture via its photographic reproduction, a subject artists such as Robert Smithson explored in visual work, exhibitions, and writing. 
+<br/><br/>
+Graham wrote: “The sculpture is the photographic residue, and effect of projected light. What 
+is seen must be read in terms of the conventions of still photography: two-dimensional objects which appear at once solid and also as transparent, and which function simultaneously in two entirely different planes of reference (two-dimensional and three-dimensional).” (Films 1977)
+<br/><br/>
+Graham's project is presented with <i>This is a Mirror You Are a Written Sentence</i>, a work by 
+Luis Camnitzer, 1966-68, and A 36"x 36" <i>Removal to the Lathing or Support Wall of Plaster or Wallboard from a Wall</i> by Lawrence Weiner, 1968. Project for Slide Projector is the first work to be premiered as part of Orchard’s historical program for the presentation, restaging, and restoration of works of the past thirty-to-forty years. Works are selected for their representation of models of criticism or resistance and for their non-complicity or outright dissent. Artists and works are selected through criteria that emphasize unrealized or difficult to exhibit works or that are under-represented by institutions, the market, and art discourse.
+<br/><br/>
+As Camnitzer declared in relationship to the re-exhibition of his seminal piece in an interview with Guagnini (April 27, 2005): “The dictatorship to be defeated is not that of image or that of language, but the one of the fetishism of the object, or to go deeper, the one of capitalist ownership. When 
+I used language over image or, rather, description over iconographic object, I did not expect to achieve the abolition of capitalism. I rather hoped to share a methodology that would allow the so-called consumer to find a leverage to change the environment without having to touch it.” Though diverse in ideas, political and cultural positions, and material strategies, the three works by Camnitzer, Graham, and Weiner each manifest the introduction of linguistic, anti-aesthetic, or 
+non-perceptual modes of experience to the work of art of the sixties, a period when aesthetic experience was dominated by modernist ideas of autonomy and pure or subjective perceptual experience, beliefs supportive to climate of aesthetic judgment and market valuation that determine relations of representation and ownership in art’s institutions.
+<br/><br/>
+Among the exhibition’s recent works, Nicolàs Guagnini will present 30,000, 1997-2000, for 
+the first time in New York. First exhibited in “Ultimas Tendencias” (Latest Directions), Museo 
+de Arte Moderno de Buenos Aires, <i>30,000</i> was conceived as a proposal for Garden of Memory, 
+a memorial to those executed, tortured, or disappeared during Argentina's 1976&ndash;  83 military dictatorship. Guagnini wrote: “In this work, which I have named 30,000 (the number of disappeared in Argentina), I used the picture of my father, a journalist who covered national and international politics. He was disappeared on December 12, 1977. As the spectator moves around the image, my father’s face appears and disappears.” With <i>30,000</i>, Guagnini offers an analogy: as the viewer experiences an oscillation between the two-dimensional portrait image and it’s abstract minimalist grid as three-dimensional support, the photograph’s information provokes a reflection on the effects of absence and trauma on the social body.
+<br/><br/> 
+A new film by Jeff Preiss, <i>Orchard: Parts 1 through 4</i>, 2005, begins an episodic installation. Preiss’s film takes the early period of Orchard’s formation, and Orchard’s program of exhibitions and events, as among its subjects. A work-in-progress, Preiss’s film employs Orchard’s duration as a gallery as one of its structuring principles. A flicker-effect organizes the film and its narrative in the installment, <i>Parts 1 through 4</i>. Graham’s words&ndash;  “Things don’t ‘happen’; they merely replace themselves in space”&ndash;  offer one way of describing the Muybridge-like motion studies of the film. Figures, artworks, and objects walk, swing, and change or exchange positions as the result of interspersed black frames.
+<br/><br/>
+In parts one and two, paintings by R. H. Quaytman have been inserted for their effect of optical and historical reverberation in the context of surrounding works. The paintings at once remember the optimism and acknowledge the obsolescence of Op Art while sharing the underlying mechanized seriality of works by McCollum, Preiss, and Schneider.  Through a generic use of closely spaced lines the silk-screened paintings produce the exaggerated sensation of looking 
+at a television or video monitor while at the same time referencing modernist ideas of formalism/
+abstraction/mysticism.  The overarching structure of Quaytman’s work is one of serialized chapters which has developed in an ongoing and chameleon-like relationship to a progression 
+of exhibition sites since 2001.
+<br/><br/>
+Karin Schneider's serial performance Sabotage began on Wednesday May 26. Schneider operated the Eliminator EF 1000, a fog machine, in concert with a recital on keyboard and in words by Jutta Koether. Sabotage introduces a significant artistic departure from now historical models of criticality with its withdrawal from speech and its obliteration of the visual field and challenge to the behavioral habits of the spectator in the gallery. In its embrace of noise and other nonrational and tactile forms of experience, Sabotage invites another avenue for the withdrawal of the visual conceptualism once aspired to through perhaps more rational and transparent means. Additional performances with or without renowned noise artists to be announced.
+<br/><br/>
+The works by Camnitzer, Graham, Guagnini, Preiss, Quaytman, Schneider, and Weiner each explore the moment of perception as a duration, placement, or displacement in space. Duration 
+is one idea that informs this exhibition, structured serially in three installments with transitional elements (performances, events, and a changeable display). Orchard’s interior architecture, exhibitions, and forthcoming publication project support discourse, collective criticism, and the interrelationships of works and values. They are presented with the urgency and frequency our present cultural and political conditions demand. 
+
+</div>			
+		
+			
+			
+			
+
+
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+
+</body>
+
+</html>

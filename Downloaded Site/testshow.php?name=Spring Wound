@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Orchard47</title>
+<link href="styles/style_exhibition.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="overlib/overlib3.js"><!-- overLIB (c) Erik Bosrup --></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function show(obj) {
+	if (document.getElementById) {
+		document.getElementById(obj).style.visibility = "visible";
+	}
+}
+function hide(obj) {
+	if (document.getElementById) { 
+		document.getElementById(obj).style.visibility = "hidden";
+	}
+}
+
+//-->
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #FF00FF}
+-->
+</style>
+</head>
+
+<a href="http://orchard47.org/index.php"><div id="headline1">
+Orchard
+</div>
+</a>
+
+
+
+
+
+
+
+<body class="body">
+<div id="bar1"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="info">
+Gallery Hours: Thurs&ndash;Sun 1 to 6<br /><br />
+<a href="mailto:contact@orchard47.org">contact@orchard47.org</a>
+</div>
+
+
+<div id="names">
+
+
+
+
+
+
+
+
+<a href="http://orchard47.org/testartist.php?name=Rhea Anastas" >Rhea Anastas</a><br><a href="http://orchard47.org/testartist.php?name=Moyra Davey" >Moyra Davey</a><br><a href="http://orchard47.org/testartist.php?name=Andrea Fraser" >Andrea Fraser</a><br><a href="http://orchard47.org/testartist.php?name=Nicolas Guagnini" >Nicol&aacute;s Guagnini</a><br><a href="http://orchard47.org/testartist.php?name=Gareth James" >Gareth James</a><br><a href="http://orchard47.org/testartist.php?name=Christian Philipp Muller" >Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testartist.php?name=Jeff Preiss" >Jeff Preiss</a><br><a href="http://orchard47.org/testartist.php?name=R.H. Quaytman" >R.H. Quaytman</a><br><a href="http://orchard47.org/testartist.php?name=Karin Schneider" >Karin Schneider</a><br><a href="http://orchard47.org/testartist.php?name=Jason Simon" >Jason Simon</a><br><a href="http://orchard47.org/testartist.php?name=John Yancy, Jr." >John Yancy, Jr.</a><br>Anonymous</div>
+
+
+<div id="bar3"><img src="images/bar_long.gif" width="393" height="7" /></div>
+
+
+<div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div>
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+
+<div id="exhibitions">
+
+
+<b>Current Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'></table>
+<br />
+
+<br />
+<b>Future Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+<table border='0'></table>
+<br />
+<br />
+
+<b>Past Exhibitions:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=Spring Wound" onMouseOver="return overlib('April 27&ndash;May 25, 2008')" onMouseOut="nd();">Spring Wound</a><br><a href="http://orchard47.org/testshow.php?name=From One O to the Other" onMouseOver="return overlib('March 20 &ndash April 20, 2008')" onMouseOut="nd();">From One O to the Other</a><br><a href="http://orchard47.org/testshow.php?name=11 Sessions" onMouseOver="return overlib('Febuary 10&ndash;March 9, 2008')" onMouseOut="nd();">11 Sessions</a><br><a href="http://orchard47.org/testshow.php?name=Cookie Cutter" onMouseOver="return overlib('Jan. 6 &ndash Feb. 3')" onMouseOut="nd();">Cookie Cutter</a><br><a href="http://orchard47.org/testshow.php?name=Davey" onMouseOver="return overlib('Nov. 18 &ndash; Dec.16 2007')" onMouseOut="nd();">Calendar of flowers, gin bottles, steak bones</a><br><a href="http://orchard47.org/testshow.php?name=schneider" onMouseOver="return overlib('Oct. 14&mdash;Nov. 11, 2007')" onMouseOut="nd();">Image Coming Soon</a><br><a href="http://orchard47.org/testshow.php?name=Form of a waterfall. Sadie Benning" onMouseOver="return overlib('Sept 9 &ndash; Oct 7, 2007')" onMouseOut="nd();">Form of a waterfall. Sadie Benning</a><br><a href="http://orchard47.org/testshow.php?name=detourism" onMouseOver="return overlib('July 1&mdash;July 28, 2007')" onMouseOut="nd();">detourism</a><br><a href="http://orchard47.org/testshow.php?name=The Collective" onMouseOver="return overlib('April 1 &ndash;April 29, 2007')" onMouseOut="nd();">On The Collective For Living Cinema</a><br><a href="http://orchard47.org/testshow.php?name=Jef Geys" onMouseOver="return overlib('February 4 &ndash; March 4, 2007')" onMouseOut="nd();">Jef Geys</a><br><a href="http://orchard47.org/testshow.php?name=I Like You" onMouseOver="return overlib('December 29 &ndash; December 31, 2006')" onMouseOut="nd();">I Like You and You Like Me</a><br><a href="http://orchard47.org/testshow.php?name=Sylvia Rivera Law Project Art Opening" onMouseOver="return overlib('October 22&ndash;29, 2006')" onMouseOut="nd();">Sylvia Rivera Law Project Art Opening</a><br><a href="http://orchard47.org/testshow.php?name=Around the Corner" onMouseOver="return overlib('November 5&ndash;December 17, 2006')" onMouseOut="nd();">Around the Corner: Zoe Leonard, Petra Wunderlich, Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testshow.php?name=nic" onMouseOver="return overlib('September 10&ndash;October 22, 2006')" onMouseOut="nd();">Nicol&aacute;s Guagnini: The Middle Class Goes to Heaven (2005&ndash;06)<br> Dan Graham: Death by Chocolate: West Edmonton Shopping Mall (1986&ndash;2005)</a><br><a href="http://orchard47.org/testshow.php?name=Reality/Play" onMouseOver="return overlib('June 4&ndash;June 30, 2006')" onMouseOut="nd();">Reality/Play</a><br><a href="http://orchard47.org/testshow.php?name=Vera" onMouseOver="return overlib('April 23&ndash;May 21, 2006')" onMouseOut="nd();">Vera</a><br><a href="http://orchard47.org/testshow.php?name=Heard Not Seen" onMouseOver="return overlib('March 10&ndash;April 9, 2006')" onMouseOut="nd();">Heard Not Seen</a><br><a href="http://orchard47.org/testshow.php?name=Having Been Described In Words" onMouseOver="return overlib('January 22&ndash;March 5, 2006')" onMouseOut="nd();">Having Been Described In Words</a><br><a href="http://orchard47.org/testshow.php?name=Painters Without Paintings and Paintings Without Painters" onMouseOver="return overlib('December 10 &ndash;January 15, 2006')" onMouseOut="nd();">Painters Without Paintings and Paintings Without Painters</a><br><a href="http://orchard47.org/testshow.php?name=Small Works For Big Change" onMouseOver="return overlib('December 3&ndash;4, 2005')" onMouseOut="nd();">Small Works For Big Change</a><br><a href="http://orchard47.org/testshow.php?name=Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs" onMouseOver="return overlib('October 30 &mdash;  November 27, 2005')" onMouseOut="nd();">Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs</a><br><a href="http://orchard47.org/testshow.php?name=Martin Beck" onMouseOver="return overlib('May 6&mdash;June 10, 2007')" onMouseOut="nd();">Martin Beck</a><br><a href="http://orchard47.org/testshow.php?name=September 11. 1973." onMouseOver="return overlib('September11&ndash;October 23, 2005')" onMouseOut="nd();">September 11. 1973.</a><br><a href="http://orchard47.org/testshow.php?name=Part Three, Last Minute" onMouseOver="return overlib('June 29 &mdash;  July 16, 2005')" onMouseOut="nd();">Part Three, "Last Minute"</a><br><a href="http://orchard47.org/testshow.php?name=Poles" onMouseOver="return overlib('January 7 &ndash; January 28, 2007')" onMouseOut="nd();">Polish Socialist Conceptualism of the 70s</a><br><a href="http://orchard47.org/testshow.php?name=Part Two" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part Two</a><br><a href="http://orchard47.org/testshow.php?name=Part One" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part One</a><br></table>
+
+</div>
+
+
+<div id="bar2"><img src="images/bar.gif" width="182" height="7" /></div>
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+<div id="headline3"><br>Spring Wound</div><div id="blurb">Opening Sunday April 27, 6-8:30 with performances beginning at 7:30 by Josiah McElheny and Anthony McCall.<br><br>
+7:30 pm Josiah McElheny will premiere his adaptation of Paul Scheerbart’s 1912 story, “The Light Club of Batavia.” McElheny’s six-character script, Das Lichtklub von Batavia/The Light Club of Batavia, will be read in German and English by Christoph Gerozissis, Janice Guy, John Miller, Klaus Ottmann, Claudia Steinberg, and Gregory Volk.<br><br>
+8:00 Anthony McCall, <i>Five-Minute Drawing</i> (1974-08) Live Performance
+<br><br>
+Please note: visitors will not be able to enter the gallery after performances have begun. <br></div><div id="exhibitionsblurb">SPRING WOUND: Works by Andrea Fraser, Nicolás Guagnini, Anthony McCall, Josiah McElheny, Jeff Preiss, Moyra Davey, Barney Simon and Isaac Preiss<br><br>
+
+
+<i>Spring Wound</i> opened on Sunday, April 27th at 6:00 pm with two performances:
+Josiah McElheny presented a performance reading of <i>Das Lichtklub von Batavia-The Light Club of Batavia</i> based on <i>Der Lichtklub von Batavia,</i> by Paul Scheerbart, published in 1912 in Die Kritische Tribüne (vol. 1 / issue 1). Performers included Christoph Gerozissis, Janice Guy, John Miller, Claus Ottman, Claudia Steinberg and Gregory Volk. <br><br>
+Anthony McCall’s <i>Five-Minute Drawing</i> was originally performed on June 20, 1974 at Art Meeting Place in London as part of an evening of five-minute presentations by artists, writers and composers. It relates to his interest in durational structures found in his solid light film installations, fire performances, and in particular to his large-scale 1974 drawing “Two Pencil Durations,” and to “Two-Minute Drawing” performed at Jean Dupuy’s now legendary “Soup and Tart” event at the Kitchen on November 30, 1974.<br><br>
+						
+<i>Spring Wound</i> is based on five collaborations produced at Orchard by Jeff Preiss with Andrea Fraser, Nicolás Guagnini, Anthony McCall,  Josiah McElheny and Moyra Davey.  <br><br>
+
+Andrea Fraser: <i>Orchard Document: May I Help You?</i> (text 1991) 2005, (16mm to DVD, continuous loop) Orchard revisited <i>May I Help You?</i>, now sixteen years old, for its inaugural exhibition. Fraser herself performed the piece every day for one week, introducing one type of relationship Orchard’s program draws upon: the connection between prior moments of critique and politicization in the art world and its contemporary conditions.  Preiss filmed Fraser’s performance over the course of several days in 16mm. In their new film, Preiss and Fraser have situated <i>May I Help You?</i> within Orchard’s examination of current conditions of exhibition and distribution.<br><br>
+Nicolás Guagnini: <i>Discharge,</i> 2005/06, (16mm to DVD, 9 minutes) "Satisfied genital object love is thus the most powerful opponent of the destructive drive of pregenital masochism, of yearning for the womb, and of the punitive super-ego. This superiority of sexuality over the destructive drive is the justification of our therapeutic efforts." From "Genitality in The Theory and Therapy of Neurosis" by Wilhelm Reich, translated from the German "Die Funktion des Orgasmus", first published in 1927.<br><br>
+Anthony McCall: <i>Five-minute Drawing: Orchard Document</i>, April 27, 2008. First realized at Art Meeting Place, London, on June 18, 1974. 2008 (Video, shot during the performance at Orchard, 5 minutes). <br><br>
+
+Josiah McElheny,<i> Light Club</i>, 2008 (16mm to DVD, 75 minutes). In McElheny and Preiss’s video, Light Club, footage of McElheny’s sculpture taken with Preiss’s signature ‘spring-wound’ technique (a panning/rotating shot), creates the image of cascading glass—a repeated descent into light and darkness. Inspired by a variety of earlier film experiments, not least Stan Brakhage’s iconic <i>The Text of Light </i>(1974), the video is over one hour long, with voiceover readings of texts from McElheny’s book by Martin Beck, Andrea Geyer, Ulrike Müller, and Barbara Schroeder.<br><br>
+Moyra Davey, Isaac Preiss and Barney Simon:<i> High School Am Over/Gin Crash</i> 2008 (YouTube, 10 minutes). Preiss and Davey invited their respective children to create a video response to Davey’s <i>Calandar of flowers, gin bottles, steak bones </i>exhibition. Isaac Preiss and Barney Simon’s video response turned out to be a prepubescent fantasy of inebriation in the context of an art exhibition. <br><br> 
+Within this grouping of collaborative work is a new film by Jeff Preiss:
+<i>Spring Wound</i> (in progress), 2005-2008 (16mm to DVD, 75 minutes).  Filmed over the course of Orchard's three-year program,<i> Spring-Wound’s</i> subject and organizing principle is the collision between cinema's claim to be a virtual memory and the limitations of its mechanism.  A series of panning shots reverse direction resulting in alternative “cuts” that appear as mechanized bounces, rendering ambiguous the real-time length of each shot, casting doubt on the power of the filmic mechanism to represent the edge of the visual field, and punning the necessity of the mechanism to be recharged in order to operate, like a wind-up toy. <br><br>
+						
+Also on view during the exhibition:
+The premiere of a slide work by Anthony McCall entitled <i>Slit-Scan,</i> (Eighty-one 35 mm colors slides, carousel projector) conceived, produced and completed in 1972 but never before exhibited.<i> Slit-Scan</i> is built from a single vertical photograph which is systematically divided into horizontal slivers, distributed across the 81 slides and presented as a visual glissando.  <br><br>
+In the window box, constructed of colored glass modules stacked and mortared,<i> Model for a Film Set (The Light Spa at the Bottom of a Mine)</i> is McElheny’s abstract envisioning of the monstrous architectural installation described in Scheerbart’s tale. Displayed in Orchard’s front window, it continues the gallery’s tradition of referencing the original commercial/display history of the space.
+As part of the exhibition, Josiah McElheny will release and offer for sale ($20) his new artist book,<i> The Light Club of Batavia.</i>  This book includes texts, translations and reinterpretations of a 1912 story by German fabulist Paul Scheerbart. Currently Scheerbart is most often remembered in relation to his collaboration with architect Bruno Taut for the Werkbund exhibition in 1914, but his revolutionary ideas about utopian politics were widely influential among prominent theorists, for example Walter Benjamin. In addition to reproducing texts by Scheerbart’s and Georg Hecht in facsimile, McElheny has commissioned and edited the first English translation of these texts by Wilhelm Werthern and Brian Currid, and Barbara Schroeder, respectively.  Critical reinterpretations of the story, in the form of a poem, play and short story, are by Ulrike Müller and Gregg Bordowitz, Andrea Geyer, Josiah McElheny. <br><br><br>
+
+On going works at Orchard in the bathroom and at the sink:
+Nicolás Guagnini and Jeff Preiss, SSS (Surge, Shit, Sargeant), 2007,  photograph and DVD.<br><br>
+
+Judith Barry, Untitled (Solo at the sink/So low at the sink), 1975
+from the series: How visual does an art work have to be to be an art work?
+1974 -1982; cassette from a live performance, 1974, installed to be. activated by turning on the sink.
+<br></div>			
+		
+			
+			
+			
+
+
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+
+</body>
+
+</html>

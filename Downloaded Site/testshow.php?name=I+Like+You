@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Orchard47</title>
+<link href="styles/style_exhibition.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="overlib/overlib3.js"><!-- overLIB (c) Erik Bosrup --></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function show(obj) {
+	if (document.getElementById) {
+		document.getElementById(obj).style.visibility = "visible";
+	}
+}
+function hide(obj) {
+	if (document.getElementById) { 
+		document.getElementById(obj).style.visibility = "hidden";
+	}
+}
+
+//-->
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #FF00FF}
+-->
+</style>
+</head>
+
+<a href="http://orchard47.org/index.php"><div id="headline1">
+Orchard
+</div>
+</a>
+
+
+
+
+
+
+
+<body class="body">
+<div id="bar1"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="info"> 47 Orchard Street<br />
+NYC, NY 10002<br />
+(212) 219&ndash;1061<br />
+<a href="mailto:contact@orchard47.org">contact@orchard47.org</a>
+<br />
+<br />
+F train to East Broadway <br />
+or B, D to Grand<br />
+Gallery Hours: Thurs&ndash;Sun 1 to 6</div>
+
+
+
+<div id="names">
+
+
+
+
+
+
+
+
+<a href="http://orchard47.org/testartist.php?name=Rhea Anastas" >Rhea Anastas</a><br><a href="http://orchard47.org/testartist.php?name=Moyra Davey" >Moyra Davey</a><br><a href="http://orchard47.org/testartist.php?name=Andrea Fraser" >Andrea Fraser</a><br><a href="http://orchard47.org/testartist.php?name=Nicolas Guagnini" >Nicol&aacute;s Guagnini</a><br><a href="http://orchard47.org/testartist.php?name=Gareth James" >Gareth James</a><br><a href="http://orchard47.org/testartist.php?name=Christian Philipp Muller" >Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testartist.php?name=Jeff Preiss" >Jeff Preiss</a><br><a href="http://orchard47.org/testartist.php?name=R.H. Quaytman" >R.H. Quaytman</a><br><a href="http://orchard47.org/testartist.php?name=Karin Schneider" >Karin Schneider</a><br><a href="http://orchard47.org/testartist.php?name=Jason Simon" >Jason Simon</a><br><a href="http://orchard47.org/testartist.php?name=John Yancy, Jr." >John Yancy, Jr.</a><br>Anonymous</div>
+
+
+<div id="bar3"><img src="images/bar_long.gif" width="393" height="7" /></div>
+
+
+<div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div>
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+
+<div id="exhibitions">
+
+
+<b>Current Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=Jef Geys" onMouseOver="return overlib('February 4 &ndash; March 4, 2007')" onMouseOut="nd();">Jef Geys</a><br></table>
+<br />
+
+<br />
+<b>Future Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+<table border='0'><a href="http://orchard47.org/testshow.php?name=The Collective" onMouseOver="return overlib('April 1 &ndash;April 29, 2007')" onMouseOut="nd();">On The Collective For Living Cinema</a><br><a href="http://orchard47.org/testshow.php?name=Martin Beck" onMouseOver="return overlib('May 6&mdash;June 10, 2007')" onMouseOut="nd();">Martin Beck</a><br></table>
+<br />
+<br />
+
+<b>Past Exhibitions:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=I Like You" onMouseOver="return overlib('December 29 &ndash; December 31, 2006')" onMouseOut="nd();">I Like You and You Like Me</a><br><a href="http://orchard47.org/testshow.php?name=Sylvia Rivera Law Project Art Opening" onMouseOver="return overlib('October 22&ndash;29, 2006')" onMouseOut="nd();">Sylvia Rivera Law Project Art Opening</a><br><a href="http://orchard47.org/testshow.php?name=Around the Corner" onMouseOver="return overlib('November 5&ndash;December 17, 2006')" onMouseOut="nd();">Around the Corner: Zoe Leonard, Petra Wunderlich, Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testshow.php?name=nic" onMouseOver="return overlib('September 10&ndash;October 22, 2006')" onMouseOut="nd();">Nicol&aacute;s Guagnini: The Middle Class Goes to Heaven (2005&ndash;06)<br> Dan Graham: Death by Chocolate: West Edmonton Shopping Mall (1986&ndash;2005)</a><br><a href="http://orchard47.org/testshow.php?name=Reality/Play" onMouseOver="return overlib('June 4&ndash;June 30, 2006')" onMouseOut="nd();">Reality/Play</a><br><a href="http://orchard47.org/testshow.php?name=Vera" onMouseOver="return overlib('April 23&ndash;May 21, 2006')" onMouseOut="nd();">Vera</a><br><a href="http://orchard47.org/testshow.php?name=Heard Not Seen" onMouseOver="return overlib('March 10&ndash;April 9, 2006')" onMouseOut="nd();">Heard Not Seen</a><br><a href="http://orchard47.org/testshow.php?name=Having Been Described In Words" onMouseOver="return overlib('January 22&ndash;March 5, 2006')" onMouseOut="nd();">Having Been Described In Words</a><br><a href="http://orchard47.org/testshow.php?name=Painters Without Paintings and Paintings Without Painters" onMouseOver="return overlib('December 10 &ndash;January 15, 2006')" onMouseOut="nd();">Painters Without Paintings and Paintings Without Painters</a><br><a href="http://orchard47.org/testshow.php?name=Small Works For Big Change" onMouseOver="return overlib('December 3&ndash;4, 2005')" onMouseOut="nd();">Small Works For Big Change</a><br><a href="http://orchard47.org/testshow.php?name=Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs" onMouseOver="return overlib('October 30 &mdash;  November 27, 2005')" onMouseOut="nd();">Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs</a><br><a href="http://orchard47.org/testshow.php?name=September 11. 1973." onMouseOver="return overlib('September11&ndash;October 23, 2005')" onMouseOut="nd();">September 11. 1973.</a><br><a href="http://orchard47.org/testshow.php?name=Part Three, Last Minute" onMouseOver="return overlib('June 29 &mdash;  July 16, 2005')" onMouseOut="nd();">Part Three, "Last Minute"</a><br><a href="http://orchard47.org/testshow.php?name=Poles" onMouseOver="return overlib('January 7 &ndash; January 28, 2007')" onMouseOut="nd();">Polish Socialist Conceptualism of the 70s</a><br><a href="http://orchard47.org/testshow.php?name=Part Two" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part Two</a><br><a href="http://orchard47.org/testshow.php?name=Part One" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part One</a><br></table>
+
+</div>
+
+
+<div id="bar2"><img src="images/bar.gif" width="182" height="7" /></div>
+
+
+<table border='0'cellspacing='5' cellpadding='0'><div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div><div id="arrowhead2"><a href="http://orchard47.org/testshow2.php?name=I Like You&&id=36" onMouseOver="return overlib('View photos.', HEIGHT, 5, RIGHT, ABOVE)" onMouseOut="nd();" > <img src="images/arrow_head.gif" border="0"  /></a></div></table>
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+<div id="headline3"><br>I Like You And You Like Me</div><div id="blurb">Characters/Roles:
+<br/>
+Artist: Rafal Betlejewski (Betlej) 
+<br/>
+Curator: Barbara Piwowarska 
+<br/>Dates: Dec. 29-31, 10am &ndash;6am
+<br></div><div id="exhibitionsblurb">A curator meets an artist. The curator happenes to be a WOMAN and the artist turns out to be a MAN. The WOMAN curator is married and the artist MAN has a family with two children. Curator and artist begin to work together on projects. Instantly they discover that they like one another, even maybe beyond the formal professional relationship. The fact of their mutual interest is obviously inapropriate and exploring it on a personal level is absolutely forbidden. They decide to turn that relation (perhaps one they only imagine) into a piece of exhibit. The project begins on a day when this idea is being related to the curator and the artist’s spouses, as well as other people. For the two parties involved it leaves behind comfortable space: <i>The space of the banal hipocricy</i>. From that moment on, all their reactions in regards to the project become the substance of the experiment. But where does it end? The artist and the curator set a limit: they will enter the gallery space for three days. Three days that will put the once intimite curator-artist relation to the test: what is it, was it worthwhile, will it obstruct their future work, will it influence their lives beyond the point of no return – or will it be just another gimmick? Was the truth important for its own sake or was it the corrupting force of the public eye that made them do it? And finally, how the so called “private life” and middle class standards attached to it, influence (limit or enrich) the freedom of the artistic expression? Is the artist still a question posed to society or is he/she just another member of the establishmet earning his/her money in a different profession? The gallery space will be a laboratory of the space between MAN and WOMAN, the artist and the curator.
+One may associate the project with Mircea Cantor's film <i>Departure</i> (2004) and Joseph Beuys action <i>I Like America and America Likes Me </i> 1974.
+Who becomes the wolf, deer or coyote is as yet unknown.<br>
+<br>
+Rafa&#322; Betlejewski (Betlej), born in Gda&#324;sk 1969, lives and works in
+Warsaw.
+Enterpreneur, specialised in marketing and brand strategies, activist,
+author of social and artistic projects in non-artistic spaces,
+including: Here and Now in Zielona G&#243;ra 2001, Burn your Shame in Warsaw
+2002–2004, I prefer Poland 2002, Unfinished in Konin 2004, a poster
+campaign on the occasion of the anniversary of the Warsaw Uprising,
+Would you go as well? 2004, stickers Sorry, Water 2005, virus Euro AGD
+2005, Milk – Order The Theater by The Phone in TR Warszawa 2005,
+Workshops in Constructing the Self (as Father, Manager, Writer) in the
+framework of the Mobile Academy Warsaw 2006. Since 2006 he has been
+running the project Everyday Life Theatre in public spaces, examining
+the the border between true and false, turning his task to elaborating
+technologies for constructing identity through unmasking the mental and
+material props used by people for this purpose. The actor-director
+first appears in the title role of a character he is attempting to make
+as realistic and convincing as possible, then unmasks the illusion
+created by brutally negating it. Before an oblivious, astonished
+audience who think they are discovering the truth, the actor constructs
+another illusion, with himself as the director of a fleeting theater
+which in cunning fashion leads to an investment of the space in which
+the presentation is taking place. By unmasking his borrowed identity,
+he introduces a further artificial identity, the illusion of which is,
+for the spectator, significantly more powerful. The d&#233;nouement depends
+on the gradual unmasking of the second illusion in the hours and days
+after the performance, after leaving the space where it took place. In
+his work Betlej examines the social oppression of given roles,
+mystification and contemporary identity understood as a contemporary
+ready-made.<br>
+<br>
+<br>
+Barbara Piwowarska, born in Warsaw 1976. Art historian, curator and art
+critic, interested in avant-garde, post-avant-garde and contemporary
+artistic strategies. In 2001-2002 she was a recipient of a scholarship at The Museum of Modern Art in New York granted by The Ko&#347;ciuszko
+Foundation, where she worked on  the exhibition The Russian Avant-Garde
+Book 1910–1934 in collaboration with the Judith Rothchild Foundation.
+She has worked with IPCNY in New York; the Zach&#281;ta National Gallery,
+Center for Contemporary Art Zamek Ujazdowski, and the Batory Foundation
+in Warsaw; Krzysztofory Gallery, Cricoteka, and the Starmach Gallery in
+Cracow; and has co-run the exhibition program at the Adam Mickiewicz
+Institute in Warsaw, including shows at Kunsthalle Wien, the Hilger and
+Charim Galleries in Vienna, and the Kulturzentrum bei den Minoriten
+Galleries in Graz; in 2000 she curated Similarity (in collaboration
+with Hilger Gallery) at the Austrian Culture Forum in Warsaw. In 2005
+she published Kolekcjonowanie &#346;wiata: Jadwiga Maziarska: Listy i szkice
+(Collecting The World: Jadwiga Maziarska, Letters and Sketches) a book
+on the work of Jadwiga Maziarska, an artist of the avant-garde
+Cracovian Group) and the problem of the collection, the archive, and
+storage in art and artists’ self-interpretations. She is the author of
+numerous publications and reviews in art magazines: Praesens, Obieg,
+Art in America, Art Margins, Oro&#324;sko, Opcje, Sekcja, Latarnik; the
+newspapers Nowy Dziennik (the Polish daily news in New York), Ozon, and
+A4. She has also been a contributor to several exhibition catalogues.
+Since 2006 she has worked for the Mobile Academy Warsaw/TR Warszawa
+(Ghosts, Spectres, Phantoms and The Places Where They Live) and
+co-organized the Blackmarket for Useful Knowledge and Non-Knowledge, a
+project-installation of lectures and performances by 66 “experts”
+(including artists, critics and scholars).
+<br></div>			
+		
+			
+			
+			
+
+
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+
+
+
+
+
+
+</body>
+
+</html>

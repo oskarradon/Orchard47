@@ -1,0 +1,156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Orchard47</title>
+<link href="styles/style_exhibition.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="overlib/overlib3.js"><!-- overLIB (c) Erik Bosrup --></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function show(obj) {
+	if (document.getElementById) {
+		document.getElementById(obj).style.visibility = "visible";
+	}
+}
+function hide(obj) {
+	if (document.getElementById) { 
+		document.getElementById(obj).style.visibility = "hidden";
+	}
+}
+
+//-->
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #FF00FF}
+-->
+</style>
+</head>
+
+<a href="http://orchard47.org/index.php"><div id="headline1">
+Orchard
+</div>
+</a>
+
+
+
+
+<body class="body">
+<div id="bar1"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="info">
+Gallery Hours: Thurs&ndash;Sun 1 to 6<br /><br />
+<a href="mailto:contact@orchard47.org">contact@orchard47.org</a>
+</div>
+
+<div id="bar2"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="names">
+
+
+
+
+
+<a href="http://orchard47.org/testartist.php?name=Rhea Anastas" >Rhea Anastas</a><br><a href="http://orchard47.org/testartist.php?name=Moyra Davey" >Moyra Davey</a><br><a href="http://orchard47.org/testartist.php?name=Andrea Fraser" >Andrea Fraser</a><br><a href="http://orchard47.org/testartist.php?name=Nicolas Guagnini" >Nicol&aacute;s Guagnini</a><br><a href="http://orchard47.org/testartist.php?name=Gareth James" >Gareth James</a><br><a href="http://orchard47.org/testartist.php?name=Christian Philipp Muller" >Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testartist.php?name=Jeff Preiss" >Jeff Preiss</a><br><a href="http://orchard47.org/testartist.php?name=R.H. Quaytman" >R.H. Quaytman</a><br><a href="http://orchard47.org/testartist.php?name=Karin Schneider" >Karin Schneider</a><br><a href="http://orchard47.org/testartist.php?name=Jason Simon" >Jason Simon</a><br><a href="http://orchard47.org/testartist.php?name=John Yancy, Jr." >John Yancy, Jr.</a><br>Anonymous</div>
+
+
+<div id="bar3"><img src="images/bar_long.gif" width="393" height="7" /></div>
+
+
+<div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div>
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+
+<div id="exhibitions">
+
+
+<b>Current Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'></table>
+<br />
+
+<br />
+<b>Future Exhibition:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+<table border='0'></table>
+<br />
+<br />
+
+<b>Past Exhibitions:</b><br />
+<img src="images/bar_dotted.gif" width="393" height="2" /><br />
+
+<table border='0'><a href="http://orchard47.org/testshow.php?name=Spring Wound" onMouseOver="return overlib('April 27&ndash;May 25, 2008')" onMouseOut="nd();">Spring Wound</a><br><a href="http://orchard47.org/testshow.php?name=From One O to the Other" onMouseOver="return overlib('March 20 &ndash April 20, 2008')" onMouseOut="nd();">From One O to the Other</a><br><a href="http://orchard47.org/testshow.php?name=11 Sessions" onMouseOver="return overlib('Febuary 10&ndash;March 9, 2008')" onMouseOut="nd();">11 Sessions</a><br><a href="http://orchard47.org/testshow.php?name=Cookie Cutter" onMouseOver="return overlib('Jan. 6 &ndash Feb. 3')" onMouseOut="nd();">Cookie Cutter</a><br><a href="http://orchard47.org/testshow.php?name=Davey" onMouseOver="return overlib('Nov. 18 &ndash; Dec.16 2007')" onMouseOut="nd();">Calendar of flowers, gin bottles, steak bones</a><br><a href="http://orchard47.org/testshow.php?name=schneider" onMouseOver="return overlib('Oct. 14&mdash;Nov. 11, 2007')" onMouseOut="nd();">Image Coming Soon</a><br><a href="http://orchard47.org/testshow.php?name=Form of a waterfall. Sadie Benning" onMouseOver="return overlib('Sept 9 &ndash; Oct 7, 2007')" onMouseOut="nd();">Form of a waterfall. Sadie Benning</a><br><a href="http://orchard47.org/testshow.php?name=detourism" onMouseOver="return overlib('July 1&mdash;July 28, 2007')" onMouseOut="nd();">detourism</a><br><a href="http://orchard47.org/testshow.php?name=The Collective" onMouseOver="return overlib('April 1 &ndash;April 29, 2007')" onMouseOut="nd();">On The Collective For Living Cinema</a><br><a href="http://orchard47.org/testshow.php?name=Jef Geys" onMouseOver="return overlib('February 4 &ndash; March 4, 2007')" onMouseOut="nd();">Jef Geys</a><br><a href="http://orchard47.org/testshow.php?name=I Like You" onMouseOver="return overlib('December 29 &ndash; December 31, 2006')" onMouseOut="nd();">I Like You and You Like Me</a><br><a href="http://orchard47.org/testshow.php?name=Sylvia Rivera Law Project Art Opening" onMouseOver="return overlib('October 22&ndash;29, 2006')" onMouseOut="nd();">Sylvia Rivera Law Project Art Opening</a><br><a href="http://orchard47.org/testshow.php?name=Around the Corner" onMouseOver="return overlib('November 5&ndash;December 17, 2006')" onMouseOut="nd();">Around the Corner: Zoe Leonard, Petra Wunderlich, Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testshow.php?name=nic" onMouseOver="return overlib('September 10&ndash;October 22, 2006')" onMouseOut="nd();">Nicol&aacute;s Guagnini: The Middle Class Goes to Heaven (2005&ndash;06)<br> Dan Graham: Death by Chocolate: West Edmonton Shopping Mall (1986&ndash;2005)</a><br><a href="http://orchard47.org/testshow.php?name=Reality/Play" onMouseOver="return overlib('June 4&ndash;June 30, 2006')" onMouseOut="nd();">Reality/Play</a><br><a href="http://orchard47.org/testshow.php?name=Vera" onMouseOver="return overlib('April 23&ndash;May 21, 2006')" onMouseOut="nd();">Vera</a><br><a href="http://orchard47.org/testshow.php?name=Heard Not Seen" onMouseOver="return overlib('March 10&ndash;April 9, 2006')" onMouseOut="nd();">Heard Not Seen</a><br><a href="http://orchard47.org/testshow.php?name=Having Been Described In Words" onMouseOver="return overlib('January 22&ndash;March 5, 2006')" onMouseOut="nd();">Having Been Described In Words</a><br><a href="http://orchard47.org/testshow.php?name=Painters Without Paintings and Paintings Without Painters" onMouseOver="return overlib('December 10 &ndash;January 15, 2006')" onMouseOut="nd();">Painters Without Paintings and Paintings Without Painters</a><br><a href="http://orchard47.org/testshow.php?name=Small Works For Big Change" onMouseOver="return overlib('December 3&ndash;4, 2005')" onMouseOut="nd();">Small Works For Big Change</a><br><a href="http://orchard47.org/testshow.php?name=Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs" onMouseOver="return overlib('October 30 &mdash;  November 27, 2005')" onMouseOut="nd();">Michael Asher, film screening<br>Stephan Pascher, Lucky Chairs</a><br><a href="http://orchard47.org/testshow.php?name=Martin Beck" onMouseOver="return overlib('May 6&mdash;June 10, 2007')" onMouseOut="nd();">Martin Beck</a><br><a href="http://orchard47.org/testshow.php?name=September 11. 1973." onMouseOver="return overlib('September11&ndash;October 23, 2005')" onMouseOut="nd();">September 11. 1973.</a><br><a href="http://orchard47.org/testshow.php?name=Part Three, Last Minute" onMouseOver="return overlib('June 29 &mdash;  July 16, 2005')" onMouseOut="nd();">Part Three, "Last Minute"</a><br><a href="http://orchard47.org/testshow.php?name=Poles" onMouseOver="return overlib('January 7 &ndash; January 28, 2007')" onMouseOut="nd();">Polish Socialist Conceptualism of the 70s</a><br><a href="http://orchard47.org/testshow.php?name=Part Two" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part Two</a><br><a href="http://orchard47.org/testshow.php?name=Part One" onMouseOver="return overlib('May 11&ndash;May 29, 2005')" onMouseOut="nd();">Part One</a><br></table>
+
+
+
+</div>
+
+
+<table border='0'cellspacing='5' cellpadding='0'></table>
+<div id="headline3"></div><div id="blurb"><br></div>			
+		
+			</b>
+			
+			
+<div id="closepress"><a href="http://orchard47.org/testshow.php?name=orchard"   onMouseOver="return overlib('Close press.', HEIGHT, 5, RIGHT, ABOVE)" onMouseOut="nd();" > <img src="images/xbox.jpg" border="0" /></a></div><div class ="press" id="press"><table width="394"border="0" cellspacing="0" cellpadding="0"  bgcolor="#FFFFFF"><tr><table width="394"border="0" cellspacing="0" cellpadding="40"  bgcolor="#000000"><tr><td  align ="justify">Orchard<br>Melanie Gilligan<br>Kollektive Erhebung<br><a href="http://orchard47.org/pdfs/article_kollektive.pdf " class ="press" >(Download article)</a></p><br><br>Orchard opened May of this year in New York’s Lower East Side. The gallery’s twelve directors are artists, filmmakers, critics, and curators – though several of them combine these practices. Many of those involved used to show together at American Fine Arts, Co., some were members of the group Parasite, and a couple of them are often associated with late ‘80s-early ‘90s institutional critique. But aside from these shared histories, the members of Orchard come from disparate backgrounds including the New York experimental film and video scene, the margins of ‘90s yBa in the UK, and the South American political conceptualist tradition. Hence, the group does not have a unanimous position in terms of their working methods or views on art. In fact, their first exhibition was intended to reflect the diversity of its member’s practices, whilst it laid out some of the future directions of their project.
+<br><br>
+
+The first exhibition at Orchard was presented in three-parts, beginning with a group show comprised of pieces from the 1960s, the ‘80s, and many recent works, including several by members of Orchard. The organizing principle for this part of the exhibition was that the works would facilitate a restaging of “May I Help You?” by Orchard member Andrea Fraser, which was originally performed at American Fine Arts, Co. in 1991. 
+<br><br>
+
+While performing “May I Help You?”, Fraser approached visitors to the gallery and delivered a script that cycled through a range of personae depicting different class positions – from a grand bourgeoisie art aficionado whose very soul is at stake in her tastes, to the disabused art world insider from a working class background, to a petty bourgeois for whom museums connote the better life she aspires to. The script of her performance was culled from a variety of sources including interviews with prominent modern art collectors and sociological studies of class and taste, such as Bourdieu’s “Distinctions”. In the mouths of Fraser’s different class archetypes, the cited texts were integrated into a fragmented and meandering flow of speech that was calculated to give a heightened sense of the dynamics of class interests at play in aesthetic tastes. For instance, when Fraser’s upper-class art connoisseur eagerly extolled the virtues of the works on display, praising their gratuitous and self-sufficient nobility, the uncanny juxtaposition of the judgments pronounced, with their insistence on aesthetic autonomy, only drew our attention to art’s role as a bearer of cultural and economic value. The viewer’s duty to politely listen to the performer’s schizophrenic shuttle across these psychosocial coordinates compounds a sense that the economic factors that determine class are reinforced in intersubjective acts of compliance. 
+<br><br>
+
+According to Fraser, “May I Help You?” has less bearing on the contemporary art market than when it was originally performed. In 1991, Fraser’s work already served to commemorate the passing of an earlier notion of art acquisition and connoisseurship for a model increasingly driven by profit and speculation. Today, the rich collector no longer accumulates cultural capital under the pretense of appreciating “art for art’s sake”, but chooses works with an eye for their potential market value, treating them as instruments for turning a profit. One could even argue that a concomitant shift has occurred, where artworks themselves are more than ever executed in the spirit of (commercial) speculation. And if it is not the artist or art work that the collector is intent on identifying with, then perhaps today it is the dealer – the fusion of art and business personified who can lead the buyer to the right choice. This situation is the context within which Orchard will have to establish its position as a commercial gallery – a point of identification for prospective buyers. The art world’s convergence with and increasing determination by financial markets was an implicit reference in the re-performance of Fraser’s work. Not only private galleries but also ‘public’ institutions are ever more subject to the pressure to yield higher returns and “May I Help You” now suggests the extent to which the conditions of the artist’s own practice of institutional critique have been transformed and eroded since the work was first presented. 
+
+<br><br>
+
+Given that the New York art world is increasingly governed by brute economics, which decide whether works are seen at all – let alone discussed and remembered – Orchard is, among other things, a pragmatic attempt to give ‘undervalued’ works that have been marginalized by the market an entry into it. A group like Orchard might once have rejected commercialism, but the only tenable way to do so at present would be to declare non-profit status, work with the US state under increasingly censorious conditions, conform their program to the utilitarian criteria of community outreach programs and line up to take their place at the almost empty trough of New York arts funding. Instead the group is a hybrid of older co-operative models, since the members pay dues and maintain the gallery, while they also fund the exhibitions and commissioning of works through sales. Although no work is intrinsically non-commercial, the types of critical conceptual art that many of the Orchard group is interested in showing tend to sell less than others. Though endeavoring to find buyers for as yet unvalorised, market-resistant work clearly raises contradictions, Orchard’s directors seem to feel that to survive within them is a more realistic and honest option than affecting to transcend the market.  Perhaps for some of those involved the autonomy afforded by traditional modes of ‘public’ funding is illusory, not least because ‘public’ often means corporate sponsored. Knee-jerk assumptions that the ‘public’ signifies good and ‘market’ bad are at times as questionable as the ideologies of autonomy interrogated in Fraser’s performance. 
+<br><br>
+
+Allan McCollum’s “Plaster Surrogates” featured in Fraser’s first performance of “May I Help You?” at American Fine Arts, Co. In the Orchard show, four of these works (there were originally around a hundred) repeated their role as suitable ciphers of painting’s symbolic and economic value. Other works on display were also brought into juxtaposition with the contest of class interests that Fraser was miming. In the performance I saw, scenes of bourgeois domestic life evoked in Fraser’s monologue corresponded with “Bringing the War Home (Giacometti)”, 1967-72 – a collage by Martha Rosler showing a luxurious house filled with high modernist works, while the carnage of the Vietnam War visible in the backyard. When the bourgeois collector remarked how much she appreciated the piece, it was not only clear how the antagonistic content of an artwork can coincide with a high commodity value and cultural capital, but also how this oppositional quality is not necessarily extinguished by being doused in exchange value. Instead, through Fraser’s mediation, the encounter between commercial imperatives and the critical historical work attained a state of contradiction adequate to the contemporary situation of intensified US imperialism overseas and escalating existential and economic precariousness at home. This problematic reoccurred in many of the works in the show. For instance, one of John Miller’s ‘shit’ paintings entitled “Yoke”, a letter O shape covered in excremental brown globs, sardonically predicts that the collector will denominate shit as valuable, while pointing out that the value the artist produces in the art commodity is ultimately the yoke that they will continue to bear. 
+<br><br>
+
+One of Orchard’s prime objectives is to give the artists they exhibit bigger cuts of the sales, and control over the terms in which their work is represented to an audience and sold. Hence the project distinguishes itself qualitatively from standard art business through their code of practice. Furthermore, by showing and selling their own work, Orchard’s directors are breaking with convention, collapsing the still sacrosanct division between the dealer who deals and the artist who coyly keeps clear of the transaction. This move towards collective self-management is not necessarily radical, but definitely indexes the difficulty of sustaining an economy for critical and/or intelligent art in a period of cultural reaction.
+<br><br>
+
+Aspects of Lawrence Weiner’s “A 36"x 36" Removal to the Lathing or Support Wall of Plaster or Wallboard from a Wall” converged with issues that were debated at Orchard regarding the construction of the gallery. According to Weiner’s instructions, the square section can be cut out of a wall in any exhibition situation, institutional or otherwise. At that moment the piece incorporates the materials and context of its current incarnation and the execution of this general directive becomes an intervention into the particular set of codes that govern the space. In this case, Orchard’s walls already combined exposure with concealment, since the white gallery surface ends before the floor and disheveled ceiling, revealing the metal beams that support it. This was a compromise between those members of Orchard who preferred to retain the physical qualities of the retail space that they were repurposing in order to juxtapose its conventions with those of exhibiting art and the members who wanted to construct a typical white cube – perhaps the better to interrogate it. Unlike many spaces, which combine traditional gallery codes with urban dilapidation solely as a matter of style, the micropolitics of Orchard’s décor actually signify some of the stakes of the group’s project. 
+<br><br>
+
+The “conventional hang” of works in part one was symbolically annihilated by Karin Schneider’s smoke deluge, entitled “Sabotage”. While Jutta Koether, a fellow artist and noise musician performed in the front window, Schneider filled the gallery with smoke from a machine named Eliminator (a modest reference to a work by Robert Smithson). By the time the works in the gallery and Koether had vanished in the smoke, the fire brigade had arrived and the performance was shut down. Schneider’s orchestrated impediment had gradually made viewing impossible and achieved it twice over by signifying danger to the uninvited neighbours who – in an ironic inversion of the usual art-driven gentrification process – got the gallery goers evacuated. 
+ <br><br>
+
+After the catharsis of staged auto-obliteration, the exhibition was reconstituted with far fewer works and again the exhibition was curated around one older piece: Dan Graham’s “Project for Slide Projector”. The piece is the first instantiation of Orchard’s project to exhume and reconstruct interesting ‘60s and ‘70s works that were overlooked on account of their non-commercial or oppositional nature, as well as others that simply were never realized, such as Graham’s work. Conceived in 1966, the work not only precedes his earliest exhibited piece, “Homes for America”, but also prefigures many of his later works that experiment with conditions of viewing. A series of photographs are projected: a close-up image of a glass box whose dimensions approximate those of the slide with the reflection of the photographer who takes the image faintly appearing in the glass. The next images are taken from the other three sides of the box as if we are having a chance to walk around it. Then a new box is placed inside and the movement is repeated, until there are four boxes in total, at which point the photographer’s image has become almost opaque. Once this is complete, the series reverses until there is only one box. The ability of glass to reflect a spectral image of the viewing subject, who in this case is also making the work, is, of course, a recurrent component of Graham’s later projects. In an article about Eadwaerd Muybridge that he wrote around the time of making the work, Graham described how photography could be used to divide an action into image frames in such a way that they counteract a sense of progress. This piece by Graham shows each stage in the work, while also reflecting an image of its production. If the meaningful narrative of the work’s execution could be said to unfold, then it equally folds back up again, retreating once the system has concluded. Graham’s attempt to undermine a teleology of the artwork resonates with the previous part of the show, whereby the exhibition wrangled with its own conditions of possibility until it eventually obliterated itself. 
+<br><br>
+
+Two works by Orchard members were located next to Graham’s work: a five-channel video by Jeff Preiss and a sculpture by Nicolas Guagnini – however, between the two works, Guagnini’s method was more compatible with Graham’s. “30,000”, a small-scale model of his monument to those killed by the Argentinian state between 1976-1983 used a grid of vertical bars to provide the ground for an image of Guagnini’s father – one of the disappeared. Guagnini registers the incongruousness of commemorating the deaths on behalf of a state whose predecessors perpetrated the massacre and takes up this conflict in the work’s structure. The face of Guagnini’s father dissolves if the viewer moves from the centre, destabilizing the image of the disappeared. In an inversion of Graham’s piece, Guagnini continues the disappearances through the form of the work, but still grants the state its monument. 
+<br><br>
+
+Some works remained from the first part of the show, such as McCollum’s “Plaster Surrogates”, Orchard member R.H. Quaytman’s minimal screen-prints that mute op-art techniques, and a piece by Luis Camnitzer from 1966-68. Camnitzer, a Uruguayan conceptual artist working from the ‘60s until the present day, had been overlooked by ‘first world’ art history, until more recently when his work was reconsidered in major exhibitions such as “Global Conceptualism” and Documenta11; hence some of the members at Orchard are interested in providing an alternative to his current institutional “rediscovery”. His mass-produced white sign with black lettering looks like it would convey general information. Instead, it says: “This is a Mirror You Are a Written Sentence”. The linguistic construction of the artwork and the reading subject are concatenated in a chain, or loop, of self-recognition. Throughout the show another member of Orchard, Gareth James, displayed two blank copies of #Kfrieze#K magazine attached to a board in the front window of the gallery. In 1999 James made a deal with #Kfrieze#K to get two copies of the magazine without anything printed on them. The empty issues, one closed, one pinned open, were entitled “Urinal” and “Fountain”. James invokes Duchamp’s designation of the urinal as art but does not propose to make the magazines artworks simply because he has said so. Instead, by preventing the printed content from ever reaching its destination on the page, the ‘support’ of the magazine becomes the pure form of a functionless art object, disconnected from its context of commercial circulation. James’ subtractive procedure is the inverse of Weiner’s “A 36"x 36" Removal….” In Weiner’s case, he removed an element from a space that effectively made the context part of the work, whereas James withholds all the images, articles and ads, which give the magazine its normal use-value, thereby asserting the work’s autonomy from its previous context.
+
+The third part of the show was a screening of about seventy one-minute long films. Every year Orchard members Moyra Davey and Jason Simon host a one-minute film festival that they hold at their home. The selections that were shown at Orchard varied in interest, but included highlights like Andrea Fraser’s funny short clips of a TV-debate (or trial-by-media) about her piece “Untitled”.
+<br><br>
+
+Orchard’s three-part show suggests that the future shape of this project will include inter-generational exhibitions, often relating contemporary works to histories of critical conceptualism. A focus on artists like Lawrence Weiner, Dan Graham, Martha Rosler and others who are more or less well ensconced in the art historical canon of critical and conceptual practices, may risk appearing to reproduce that canon uncritically in order to valorise the contemporary artists in the show (mostly members of Orchard) as its legitimate heirs. Yet, the structure of the exhibition resists such a reading. For instance, Fraser’s performance framed the better-known works in such a way that their reified freight of symbolic capital was at once foregrounded and problematised. Furthermore, many of the contemporary works in the show were interesting provocations in their own terms without any need for recourse to a canon for validation. The Orchard directors seem to believe that the critical force of certain ‘60s and ‘70s conceptual practices is not extinguished by their canonization, or the work of legitimization that is required of them. If so, it is more important to re-engage what is still resistant in these well-established practices than to transfer the inert symbolic value accrued in them to the other art they exhibit. As Orchard’s collaborative project develops, it will hopefully retain the instability that characterized its first show – which rotated works, interrogated its newly formed position in the art market and disappeared in a cloud of smoke.
+
+</td></tr></table>	
+
+	
+	<br><inline-table border='0'cellspacing='50' cellpadding='0'><td><a href="http://orchard47.org/testpress2.php?name=orchard&&id=&&idpress=12" onMouseOver="return overlib('Neue Review')" onMouseOut="nd();" class ="press" ><img src="images/box.gif" border="0" /></a><img src="images/box_white.gif" border="0" /></td><td><a href="http://orchard47.org/testpress2.php?name=orchard&&id=&&idpress=13" onMouseOver="return overlib('Kollektive Erhebung')" onMouseOut="nd();" class ="press" ><img src="images/box.gif" border="0" /></a><img src="images/box_white.gif" border="0" /></td><td><a href="http://orchard47.org/testpress2.php?name=orchard&&id=&&idpress=17" onMouseOver="return overlib('Quicktime')" onMouseOut="nd();" class ="press" ><img src="images/box.gif" border="0" /></a><img src="images/box_white.gif" border="0" /></td></table><img src="images/box_white.gif" border="0" /><br><br><br><br><br></div></tr></table>
+	
+
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Orchard47</title>
+<link href="styles/style_exhibition.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="overlib/overlib3.js"><!-- overLIB (c) Erik Bosrup --></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function show(obj) {
+	if (document.getElementById) {
+		document.getElementById(obj).style.visibility = "visible";
+	}
+}
+function hide(obj) {
+	if (document.getElementById) { 
+		document.getElementById(obj).style.visibility = "hidden";
+	}
+}
+
+//-->
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #FF00FF}
+-->
+</style>
+</head>
+
+<a href="http://orchard47.org/index.php"><div id="headline1">
+Orchard
+</div>
+</a>
+
+
+
+
+
+
+<body class="body">
+<div id="bar1"><img src="images/bar.gif" width="182" height="7" /></div>
+
+<div id="info"> 47 Orchard Street<br />
+NYC, NY 10002<br />
+(212) 219&ndash;1061<br />
+<a href="mailto:contact@orchard47.org">contact@orchard47.org</a>
+<br />
+<br />
+F train to East Broadway <br />
+or B, D to Grand<br />
+Gallery Hours: Thurs&ndash;Sun 1 to 6</div>
+
+
+
+<div id="names">
+
+
+
+
+
+
+
+<a href="http://orchard47.org/testartist.php?name=Rhea Anastas" >Rhea Anastas</a><br><a href="http://orchard47.org/testartist.php?name=Moyra Davey" >Moyra Davey</a><br><a href="http://orchard47.org/testartist.php?name=Andrea Fraser" >Andrea Fraser</a><br><a href="http://orchard47.org/testartist.php?name=Nicolas Guagnini" >Nicol&aacute;s Guagnini</a><br><a href="http://orchard47.org/testartist.php?name=Gareth James" >Gareth James</a><br><a href="http://orchard47.org/testartist.php?name=Christian Philipp Muller" >Christian Philipp M&uuml;ller</a><br><a href="http://orchard47.org/testartist.php?name=Jeff Preiss" >Jeff Preiss</a><br><a href="http://orchard47.org/testartist.php?name=R.H. Quaytman" >R.H. Quaytman</a><br><a href="http://orchard47.org/testartist.php?name=Karin Schneider" >Karin Schneider</a><br><a href="http://orchard47.org/testartist.php?name=Jason Simon" >Jason Simon</a><br><a href="http://orchard47.org/testartist.php?name=John Yancy, Jr." >John Yancy, Jr.</a><br>Anonymous</div>
+
+
+<div id="arrowbar">
+	<img src="images/arrow_bar.gif" width="33" height="8" />
+	</div>
+
+
+<div id="bar2"><img src="images/bar.gif" width="182" height="7" /></div>
+
+
+
+
+<div id="bar3"><img src="images/bar_long.gif" width="393" height="7" /></div>
+
+
+
+<div id="bar4"><img src="images/bar_long.gif" width="393" height="7" /> 
+</div>
+
+
+
+
+<div id="exhibitions">
+
+
+
+</div>
+
+
+<div id="headline3">Having Been Described <br>In Words</div><div id="blurb"><b>Organized By: Jason Simon, Sadie Benning, Gregg Bordowitz, Phil Collins, Bill Horrigan, William Jones, Chris Marker, Julia Scher, Garry Winogrand<br></b><img src="images/bar_dotted.gif" width="393" height="2" /><br /><br></div><div id="exhibitionsblurb"><i>Having been described in words</i> was an exhibition of works by Sadie Benning, Gregg Bordowitz, Phil Collins, Bill Horrigan, William Jones, Chris Marker, Julia Scher and Gary Winogrand, organized by Jason Simon. The artists in the exhibition are known for their activity in film, video and photography, and here they present departures and returns to their commonality. Bill Horrigan, whose work of the last twenty years is sampled n the show with his writings about each of the artists, is the Director of Media Arts at the Wexner Center for the Arts, in Columbus, Ohio. The exhibition developed through examples of the ways both artists and curators depart from received notions of their work. That these departures intersect through Horrigan as a writer, curator and friend is thought of here as archaeology of artistic exchange. The result is a slice through twenty years of curatorial and critical activity.
+ <br/><br/>   
+For Orchard the opportunity is one of curating a curator, reverse-anthologizing, institutional sampling. Bill Horrigan is an exceptional candidate for the treatment. In his writings, artists and their work are the agents of Horrigan’s cultural analyses. Never grinding an axe or slotting works into curatorial conceits, he proffers a commitment to artistic labor, its place within a history of ideas and the social moment of reception. The selected works do not correspond to the selections of Horrigan’s writings available at the gallery as a packet, but map trajectories for each of the artists between their intersection with Horrigan and the project on view here. Gregg Bordowitz, known for his activism, writing and videos, shows a 2002 installation commissioned by the
+MCA Chicago entitled “Drive”. Chris Marker, one of Cinema’s most hailed and nfluential voices, is represented by the little known series of travel books he “directed” in the 1950’s & ‘60’s, Les Petite Planetes. William Jones, whose film “Massilon” was a signature presentation in the early days of the Wexner Center and whose recent work was surveyed at the Tate modern in London this year, presents portraits of LA’s Latino fans devoted to Morrisey and The Smiths. Sadie Benning, poster child of the beloved Pixle Vision school of artist videos, presents paintings that offer a glimpse of her 2007 museum survey. Julia Scher, whose first museum installation was
+commissioned by the Wexner Center in the institution’s inaugural year, has examples of a recent foray into sculpted marble. English video maker Phil Collins and Gary Winogrand remain true to their established mediums as the earliest and most recent subjects of Horrigan’s writing, Collins with his video “Ockey & Julie” and Winogrand with his 1964 photo “Utah”. 
+</div>			
+		
+			
+			
+			</b>
+			
+			
+			
+
+
+
+
+
+
+<br><div id="photo" "><table width="393"border="0" cellspacing="0" cellpadding="40"  bgcolor="#000000"><tr><td  align ="center"><a href="http://www.orchard47.org/images/photos/havingbeendescribedinwords.jpg" border = "0"  target = "_blank"><img src="http://www.orchard47.org/images/photos/havingbeendescribedinwords.jpg" width ="300" border = "0"></a><p align="left"></p></td></tr></table><br><border='0'cellspacing='0' cellpadding='0'><br><br><br><br><br></div><div id="closephoto"><a href="http://orchard47.org/testshow.php?name=Having Been Described In Words&&id="   onMouseOver="return overlib('Close photo.', HEIGHT, 5, RIGHT, ABOVE)" onMouseOut="nd();" > <img src="images/xbox.jpg" border="0" /></a></div><br><br><br><br><br><br>
+
+<table border='0'cellspacing='5' cellpadding='0'><div id="arrowbar"><img src="images/arrow_bar.gif" width="33" height="8" /></div><div id="arrowhead"><a href="http://orchard47.org/testpress.php?name=Having Been Described In Words&&id=17&&idpress=10" onMouseOver="return overlib('View press.', HEIGHT, 5, RIGHT, ABOVE)" onMouseOut="nd();" > <img src="images/arrow_head.gif" border="0"  /></a></div></table>
+</body>
+
+</html>
