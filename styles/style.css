@@ -1,4 +1,3 @@
-/* CSS Document */
 
 
 
@@ -12,13 +11,13 @@ A:hover {text-decoration: none; color: #FFBB00;}
 .body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 11px;
-	
-	
+
+
 }
 
 #headline1
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:57px;
 	left:64px;
 	visibility: visible;
@@ -29,24 +28,24 @@ A:hover {text-decoration: none; color: #FFBB00;}
 }
 
 #bar1
-{ 
-	position: absolute; 
-	top:90px;
+{
+	position: absolute;
+	top:87px;
 	left:64px;
 	visibility: visible;
 }
 
 #bar2
-{ 
-	position: absolute; 
-	top:90px;
+{
+	position: absolute;
+	top:87px;
 	left:279px;
 	visibility: visible;
 }
 
 #headline3
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:30px;
 	left:490px;
 	visibility: visible;
@@ -59,49 +58,49 @@ A:hover {text-decoration: none; color: #FFBB00;}
 }
 
 #bar3
-{ 
-	position: absolute; 
-	top:90px;
+{
+	position: absolute;
+	top:87px;
 	left:490px;
 	visibility: visible;
 }
 
 
 #bar4
-{ 
-	position: absolute; 
-	top:304px;
+{
+	position: absolute;
+	top:301px;
 	left:64px;
 	visibility: visible;
 }
 
 #dottedbar
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:338px;
 	left:64px;
 	visibility: visible;
 }
 
 #dottedbar2
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:374px;
 	left:64px;
 	visibility: visible;
 }
 
 #arrowbar
-{ 
-	position: absolute; 
-	top:304px;
+{
+	position: absolute;
+	top:302px;
 	left:850px;
 	visibility: visible;
 }
 
 #arrowhead
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:295px;
 	left:885px;
 	visibility: visible;
@@ -110,7 +109,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 
 #info
 {
-	position: absolute; 
+	position: absolute;
 	top:112px;
 	left:64px;
 	visibility: visible;
@@ -118,7 +117,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 
 #names
 {
-	position: absolute; 
+	position: absolute;
 	top:112px;
 	left:279px;
 	visibility: visible;
@@ -127,18 +126,18 @@ A:hover {text-decoration: none; color: #FFBB00;}
 
 #blurb
 {
-	position: absolute; 
+	position: absolute;
 	top:112px;
 	left:490px;
 	visibility: visible;
 	width: 393px;
-	
+
 }
 
 
 #exhibitions
 {
-	position: absolute; 
+	position: absolute;
 	top:329px;
 	left:64px;
 	visibility: visible;
@@ -147,7 +146,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 
 #exhibitionshead
 {
-	position: absolute; 
+	position: absolute;
 	top:112px;
 	left:490px;
 	visibility: visible;
@@ -157,7 +156,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 
 #exhibitionsblurb
 {
-	position: absolute; 
+	position: absolute;
 	top:329px;
 	left:490px;
 	visibility: visible;
@@ -179,9 +178,9 @@ A:hover {text-decoration: none; color: #FFBB00;}
 	visibility:visible;
 	text-align: right;
 	color: white;
-	
-	
-	
+
+
+
 }
 
 #closephoto
@@ -191,7 +190,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 	top: 335px;
 	z-index: 100;
 	visibility:visible;
-	
+
 }
 
 
@@ -204,7 +203,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 	z-index: 100px;
 	text-align:right;
 	visibility:visible;
-	
+
 }
 
 #closepress
@@ -222,30 +221,30 @@ A:hover {text-decoration: none; color: #FFBB00;}
 
 
 #arrowbar2
-{ 
-	position: relative; 
+{
+	position: relative;
 	top: 7px;
 	left: 360px;
 	visibility: visible;
 }
 
 #arrowhead2
-{ 
-	
+{
+
 	left:450px;
 	visibility: visible;
 }
 
 #arrowhead3
-{ 
+{
 	top: 10px;
 	left:450px;
 	visibility: visible;
 }
 
 #boxes
-{ 
-	position: relative; 
+{
+	position: relative;
 	visibility: visible;
 }
 
@@ -266,7 +265,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 	left: 391px;
 	top: 679px;
 	z-index: 100;
-	visibility:visible;	
+	visibility:visible;
 }
 
 
@@ -275,7 +274,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 	position:absolute;
 	left: 375px;
 	top: 679px;
-	z-index: 100;	
+	z-index: 100;
 	visibility:visible;
 }
 
@@ -290,7 +289,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 	z-index: 100;
 	visibility:hidden;
 	background-color: #000000;
-	height: 314px;	
+	height: 314px;
 }
 
 
@@ -334,7 +333,7 @@ top: -352px; /*position where enlarged image should offset horizontally */
 position: absolute;
 visibility: visible;
 left: -349px;
-top: -352px; /*position where enlarged image should offset horizontally 
+top: -352px; /*position where enlarged image should offset horizontally
 }
 
 }*/
