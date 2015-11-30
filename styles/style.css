@@ -30,7 +30,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 #bar1
 {
 	position: absolute;
-	top:87px;
+	top:90px;
 	left:64px;
 	visibility: visible;
 }
@@ -38,7 +38,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 #bar2
 {
 	position: absolute;
-	top:87px;
+	top:90px;
 	left:279px;
 	visibility: visible;
 }
@@ -60,7 +60,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 #bar3
 {
 	position: absolute;
-	top:87px;
+	top:90px;
 	left:490px;
 	visibility: visible;
 }
@@ -69,7 +69,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 #bar4
 {
 	position: absolute;
-	top:301px;
+	top:304px;
 	left:64px;
 	visibility: visible;
 }
@@ -93,7 +93,7 @@ A:hover {text-decoration: none; color: #FFBB00;}
 #arrowbar
 {
 	position: absolute;
-	top:302px;
+	top:304px;
 	left:850px;
 	visibility: visible;
 }
