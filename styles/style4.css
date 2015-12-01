@@ -1,4 +1,5 @@
-/* CSS Document */
+/* This stylesheet puts the photos img in the right spot
+I want to fix the main stylesheet so there is only one stylesheet for the whole site */
 
 
 
@@ -16,13 +17,13 @@ a.press:active {text-decoration: none; }
 .body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 11px;
-	
-	
+
+
 }
 
 #headline1
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:57px;
 	left:64px;
 	visibility: visible;
@@ -33,24 +34,24 @@ a.press:active {text-decoration: none; }
 }
 
 #bar1
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:90px;
 	left:64px;
 	visibility: visible;
 }
 
 #bar2
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:90px;
 	left:279px;
 	visibility: visible;
 }
 
 #headline3
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:30px;
 	left:490px;
 	visibility: visible;
@@ -63,8 +64,8 @@ a.press:active {text-decoration: none; }
 }
 
 #bar3
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:90px;
 	left:490px;
 	visibility: visible;
@@ -72,40 +73,40 @@ a.press:active {text-decoration: none; }
 
 
 #bar4
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:304px;
 	left:64px;
 	visibility: visible;
 }
 
 #dottedbar
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:338px;
 	left:64px;
 	visibility: visible;
 }
 
 #dottedbar2
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:374px;
 	left:64px;
 	visibility: visible;
 }
 
 #arrowbar
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:304px;
 	left:850px;
 	visibility: visible;
 }
 
 #arrowhead
-{ 
-	position: absolute; 
+{
+	position: absolute;
 	top:295px;
 	left:885px;
 	visibility: visible;
@@ -114,7 +115,7 @@ a.press:active {text-decoration: none; }
 
 #info
 {
-	position: absolute; 
+	position: absolute;
 	top:112px;
 	left:64px;
 	visibility: visible;
@@ -122,7 +123,7 @@ a.press:active {text-decoration: none; }
 
 #names
 {
-	position: absolute; 
+	position: absolute;
 	top:112px;
 	left:279px;
 	visibility: visible;
@@ -131,18 +132,18 @@ a.press:active {text-decoration: none; }
 
 #blurb
 {
-	position: absolute; 
+	position: absolute;
 	top:112px;
 	left:490px;
 	visibility: visible;
 	width: 393px;
-	
+
 }
 
 
 #exhibitions
 {
-	position: absolute; 
+	position: absolute;
 	top:329px;
 	left:64px;
 	visibility: visible;
@@ -151,7 +152,7 @@ a.press:active {text-decoration: none; }
 
 #exhibitionshead
 {
-	position: absolute; 
+	position: absolute;
 	top:112px;
 	left:490px;
 	visibility: visible;
@@ -161,7 +162,7 @@ a.press:active {text-decoration: none; }
 
 #exhibitionsblurb
 {
-	position: absolute; 
+	position: absolute;
 	top:329px;
 	left:490px;
 	visibility: visible;
@@ -183,9 +184,9 @@ a.press:active {text-decoration: none; }
 	visibility:visible;
 	text-align: right;
 	color: white;
-	
-	
-	
+
+
+
 }
 
 #closephoto
@@ -195,7 +196,7 @@ a.press:active {text-decoration: none; }
 	top: 335px;
 	z-index: 100;
 	visibility:visible;
-	
+
 }
 
 
@@ -208,7 +209,7 @@ a.press:active {text-decoration: none; }
 	z-index: 100px;
 	text-align:right;
 	visibility:visible;
-	
+
 }
 
 #closepress
@@ -226,8 +227,8 @@ a.press:active {text-decoration: none; }
 
 
 #arrowbar2
-{ 
-	position: relative; 
+{
+	position: relative;
 	top: 7px;
 	left: 360px;
 	visibility: visible;
@@ -237,23 +238,23 @@ a.press:active {text-decoration: none; }
 
 
 #arrowhead2
-{ 
-position: absolute; 
+{
+position: absolute;
 	top:295px;
 	left:460px;
 	visibility: visible;
 }
 #arrowhead3
-{ 
-position: absolute; 
+{
+position: absolute;
 	top:295px;
 	left:885px;
 	visibility: visible;
 }
 
 #boxes
-{ 
-	position: relative; 
+{
+	position: relative;
 	visibility: visible;
 }
 
@@ -274,7 +275,7 @@ position: absolute;
 	left: 391px;
 	top: 679px;
 	z-index: 100;
-	visibility:visible;	
+	visibility:visible;
 }
 
 
@@ -283,7 +284,7 @@ position: absolute;
 	position:absolute;
 	left: 375px;
 	top: 679px;
-	z-index: 100;	
+	z-index: 100;
 	visibility:visible;
 }
 
@@ -298,7 +299,7 @@ position: absolute;
 	z-index: 100;
 	visibility:hidden;
 	background-color: #000000;
-	height: 314px;	
+	height: 314px;
 }
 
 
@@ -342,7 +343,7 @@ top: -352px; /*position where enlarged image should offset horizontally */
 position: absolute;
 visibility: visible;
 left: -349px;
-top: -352px; /*position where enlarged image should offset horizontally 
+top: -352px; /*position where enlarged image should offset horizontally
 }
 
 }*/
