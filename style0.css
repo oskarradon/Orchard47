@@ -1,18 +1,12 @@
-/* This stylesheet puts the photos img in the right spot
-I want to fix the main stylesheet so there is only one stylesheet for the whole site */
 
 
 
 A:link {color: #000000; background-color: white;text-decoration: none;}
 A:visited {color: #000000; text-decoration: none;}
 A:active {text-decoration: none;}
-A:hover {text-decoration: none; color: #FF8147;}
+A:hover {text-decoration: none; color: #FFBB00;}
 
 
-a.press:link {color: #FFFFFF; text-decoration: none;}
-a.press:visited {color: #FFFFFF; text-decoration: none;}
-a.press:hover {text-decoration: none; color: #FF8147; }
-a.press:active {text-decoration: none; }
 
 .body {
 	font-family: Arial, Helvetica, sans-serif;
@@ -234,21 +228,17 @@ a.press:active {text-decoration: none; }
 	visibility: visible;
 }
 
-
-
-
 #arrowhead2
 {
-position: absolute;
-	top:295px;
-	left:460px;
+
+	left:450px;
 	visibility: visible;
 }
+
 #arrowhead3
 {
-position: absolute;
-	top:295px;
-	left:885px;
+	top: 10px;
+	left:450px;
 	visibility: visible;
 }
 
