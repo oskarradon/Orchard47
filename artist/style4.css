@@ -1,0 +1,349 @@
+/* This stylesheet puts the photos img in the right spot
+I want to fix the main stylesheet so there is only one stylesheet for the whole site */
+
+
+
+A:link {color: #000000; background-color: white;text-decoration: none;}
+A:visited {color: #000000; text-decoration: none;}
+A:active {text-decoration: none;}
+A:hover {text-decoration: none; color: #FF8147;}
+
+
+a.press:link {color: #FFFFFF; text-decoration: none;}
+a.press:visited {color: #FFFFFF; text-decoration: none;}
+a.press:hover {text-decoration: none; color: #FF8147; }
+a.press:active {text-decoration: none; }
+
+.body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+
+
+}
+
+#headline1
+{
+	position: absolute;
+	top:57px;
+	left:64px;
+	visibility: visible;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+ 	letter-spacing: -2px;
+}
+
+#bar1
+{
+	position: absolute;
+	top:90px;
+	left:64px;
+	visibility: visible;
+}
+
+#bar2
+{
+	position: absolute;
+	top:90px;
+	left:279px;
+	visibility: visible;
+}
+
+#headline3
+{
+	position: absolute;
+	top:30px;
+	left:490px;
+	visibility: visible;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+ 	letter-spacing: -2px;
+	width: 395px;
+	line-height: 95% ;
+}
+
+#bar3
+{
+	position: absolute;
+	top:90px;
+	left:490px;
+	visibility: visible;
+}
+
+
+#bar4
+{
+	position: absolute;
+	top:304px;
+	left:64px;
+	visibility: visible;
+}
+
+#dottedbar
+{
+	position: absolute;
+	top:338px;
+	left:64px;
+	visibility: visible;
+}
+
+#dottedbar2
+{
+	position: absolute;
+	top:374px;
+	left:64px;
+	visibility: visible;
+}
+
+#arrowbar
+{
+	position: absolute;
+	top:304px;
+	left:850px;
+	visibility: visible;
+}
+
+#arrowhead
+{
+	position: absolute;
+	top:295px;
+	left:885px;
+	visibility: visible;
+}
+
+
+#info
+{
+	position: absolute;
+	top:112px;
+	left:64px;
+	visibility: visible;
+}
+
+#names
+{
+	position: absolute;
+	top:112px;
+	left:279px;
+	visibility: visible;
+
+}
+
+#blurb
+{
+	position: absolute;
+	top:112px;
+	left:490px;
+	visibility: visible;
+	width: 393px;
+
+}
+
+
+#exhibitions
+{
+	position: absolute;
+	top:329px;
+	left:64px;
+	visibility: visible;
+}
+
+
+#exhibitionshead
+{
+	position: absolute;
+	top:112px;
+	left:490px;
+	visibility: visible;
+	width: 393px;
+	text-align:justify;
+}
+
+#exhibitionsblurb
+{
+	position: absolute;
+	top:329px;
+	left:490px;
+	visibility: visible;
+	width: 393px;
+	text-align:justify;
+}
+
+
+/*pictures*/
+
+
+
+#photo
+{
+	position:absolute;
+	left: 64px;
+	top: 329px;
+	z-index: 100;
+	visibility:visible;
+	text-align: right;
+	color: white;
+
+
+
+}
+
+#closephoto
+{
+	position:absolute;
+	left: 430px;
+	top: 335px;
+	z-index: 100;
+	visibility:visible;
+
+}
+
+
+
+#press
+{
+	position:absolute;
+	left: 488px;
+	top: 329px;
+	z-index: 100px;
+	text-align:right;
+	visibility:visible;
+
+}
+
+#closepress
+{
+	position:absolute;
+	left: 855px;
+	top: 335px;
+	z-index: 100;
+	text-align:justify;
+	visibility:visible;
+}
+
+.press {color: #FFFFFF;}
+
+
+
+#arrowbar2
+{
+	position: relative;
+	top: 7px;
+	left: 360px;
+	visibility: visible;
+}
+
+
+
+
+#arrowhead2
+{
+position: absolute;
+	top:295px;
+	left:460px;
+	visibility: visible;
+}
+#arrowhead3
+{
+position: absolute;
+	top:295px;
+	left:885px;
+	visibility: visible;
+}
+
+#boxes
+{
+	position: relative;
+	visibility: visible;
+}
+
+
+#box
+{
+	position: relative;
+	left: 400px;
+	top: 679px;
+	z-index: 100;
+	visibility:visible;
+}
+
+
+#box2
+{
+	position:absolute;
+	left: 391px;
+	top: 679px;
+	z-index: 100;
+	visibility:visible;
+}
+
+
+#box3
+{
+	position:absolute;
+	left: 375px;
+	top: 679px;
+	z-index: 100;
+	visibility:visible;
+}
+
+
+/*hoveringggg*/
+
+#float
+{
+	position:absolute;
+	left: 64px;
+	top: 329px;
+	z-index: 100;
+	visibility:hidden;
+	background-color: #000000;
+	height: 314px;
+}
+
+
+.thumbnail{
+position: relative;
+z-index: 0;
+}
+
+.thumbnail:hover{
+background-color: black;
+z-index: 50;
+}
+
+.thumbnail span{ /*CSS for enlarged image*/
+position: absolute;
+background-color: black;
+padding: 0px;
+border:none;
+visibility: hidden;
+color: white;
+text-decoration: none;
+}
+
+.thumbnail span img{ /*CSS for enlarged image*/
+border:none;
+padding: 0px;
+
+}
+
+.thumbnail:hover span{ /*CSS for enlarged image on hover*/
+position: absolute;
+visibility: visible;
+left: -347px;
+top: -352px; /*position where enlarged image should offset horizontally */
+}
+
+
+
+/*
+.thumbnail:hover span{ /*CSS for enlarged image on hover
+position: absolute;
+visibility: visible;
+left: -349px;
+top: -352px; /*position where enlarged image should offset horizontally
+}
+
+}*/
