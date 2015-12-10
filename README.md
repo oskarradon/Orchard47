@@ -12,7 +12,8 @@ TO DO LIST:
 
 - RH Quaytman lorem press page
 
-- pdfs:
-    article_kollektive.pdf
+- article_kollektive.pdf from Kollektive_Ehrebung press page, THE_MIDDLE_CLASS_endnotes.pdf from The_Middle_Class pres page
 
 - Images for Installation_View photo page and the other photo pages that are linked to (presumably more images)
+
+- The other press page linked to from The_Middle_Class press page
