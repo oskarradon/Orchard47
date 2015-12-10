@@ -14,3 +14,5 @@ TO DO LIST:
 
 - pdfs:
     article_kollektive.pdf
+
+- Images for Installation_View photo page and the other photo pages that are linked to (presumably more images)
