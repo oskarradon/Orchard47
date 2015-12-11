@@ -18,3 +18,5 @@ TO DO LIST:
 - The other press page linked to from The_Middle_Class press page
 
 - photos from detourism photo page and the other photo pages that are linked to
+
+- I Like You installation photos
