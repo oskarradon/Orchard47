@@ -20,3 +20,7 @@ TO DO LIST:
 - photos from detourism photo page and the other photo pages that are linked to
 
 - I Like You installation photos
+
+- checklist pdf for Reality/Play
+
+- article_kollektive.pdf for Vera exhibiton
