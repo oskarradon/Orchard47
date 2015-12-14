@@ -28,3 +28,5 @@ TO DO LIST:
 - Heard Not Seen photos page photos and other photo pages
 
 - Having Been Described In Words image and pdf
+
+- Painters Without Paintings images
