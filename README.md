@@ -26,3 +26,5 @@ TO DO LIST:
 - article_kollektive.pdf for Vera exhibiton
 
 - Heard Not Seen photos page photos and other photo pages
+
+- Having Been Described In Words image and pdf
