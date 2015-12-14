@@ -30,3 +30,5 @@ TO DO LIST:
 - Having Been Described In Words image and pdf
 
 - Painters Without Paintings images
+
+- Michael Asher Film Screening exhibition page wasn't archived by the Wayback Machine, I recreated it from the press release, changing past tense to present tense in one case. Formatting is directly from word document and could be incorrect. 
