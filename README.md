@@ -24,3 +24,5 @@ TO DO LIST:
 - checklist pdf for Reality/Play
 
 - article_kollektive.pdf for Vera exhibiton
+
+- Heard Not Seen photos page photos and other photo pages
