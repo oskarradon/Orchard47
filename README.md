@@ -17,18 +17,20 @@ TO DO LIST:
 
 - The other press page linked to from The_Middle_Class press page
 
-- photos from detourism photo page and the other photo pages that are linked to
+- images from detourism photo page and the other photo pages that are linked to
 
-- I Like You installation photos
+- I Like You installation images
 
 - checklist pdf for Reality/Play
 
 - article_kollektive.pdf for Vera exhibiton
 
-- Heard Not Seen photos page photos and other photo pages
+- Heard Not Seen images page images and other photo pages
 
 - Having Been Described In Words image and pdf
 
 - Painters Without Paintings images
 
-- Michael Asher Film Screening exhibition page wasn't archived by the Wayback Machine, I recreated it from the press release, changing past tense to present tense in one case. Formatting is directly from word document and could be incorrect. 
+- Michael Asher Film Screening exhibition page wasn't archived by the Wayback Machine, I recreated it from the press release, changing past tense to present tense in one case. Formatting is directly from word document and could be incorrect.
+
+- Martin Beck exhibition images
