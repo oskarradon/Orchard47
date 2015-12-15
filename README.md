@@ -38,3 +38,5 @@ TO DO LIST:
 - September 11 1973 images, other photo pages, and checklist page
 
 - Poles photos pages
+
+- Part two images and other photo pages
