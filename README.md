@@ -36,3 +36,5 @@ TO DO LIST:
 - Martin Beck exhibition images
 
 - September 11 1973 images, other photo pages, and checklist page
+
+- Poles photos pages
