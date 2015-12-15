@@ -39,4 +39,6 @@ TO DO LIST:
 
 - Poles photos pages
 
-- Part two images and other photo pages
+- Part Two images and other photo pages
+
+- Part One images and other photo pages
